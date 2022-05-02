@@ -5,5 +5,11 @@ output: github_document
 permalink: /about/
 ---
 
-I am an ecologist with broad interests in the dynamics of communities and ecosystems. I am an aquatic ecologist with interests in ecosystem, food web, and community ecology.
+I am an ecologist with broad interests in the dynamics of communities
+and ecosystems. My feet are usually wet in my research working in arctic
+streams and rivers to sub-tropical estuaries. I am interested in how
+energy and elements move through ecological networks.
 
+## Main research questions
+
+## Something here
