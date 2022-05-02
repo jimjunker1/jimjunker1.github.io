@@ -1,8 +1,11 @@
 ---
 layout: page
 title: 
-output: github_document
 permalink: /about/
+output:
+  md_document:
+    preserve_yaml: TRUE
+    variant: markdown_strict
 ---
 
 I am an ecologist with broad interests in the dynamics of communities
@@ -12,4 +15,11 @@ energy and elements move through ecological networks.
 
 ## Main research questions
 
-## Something here
+## Education
+
+* PhD Montana State University. 2019
+
+* MS Montana State University. 2011
+
+* BS Northland College. 2007
+

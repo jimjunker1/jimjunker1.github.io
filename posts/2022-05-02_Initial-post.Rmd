@@ -12,7 +12,8 @@ tags:
   - content
 output:
   md_document:
-    variant: markdown_github
+    preserve_yaml: TRUE
+    variant: markdown_strict 
 ---
 
 This will be a space dedicated to things I find interesting and/or
