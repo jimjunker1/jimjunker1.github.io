@@ -1,5 +1,3 @@
-About me
-================
 
 I am an ecologist with broad interests in the dynamics of communities
 and ecosystems. My feet are usually wet in my research working in arctic

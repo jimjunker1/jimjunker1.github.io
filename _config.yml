@@ -20,9 +20,7 @@
 
 title: Jim Junker
 email: james.junker1@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-   I am an ecologist with interests in the dynamics of ecosystem and food webs. 
-   Much of my work takes place in aquatic ecosystems--from arctic streams and rivers to subtropical estuaries
+logo: images/jim-logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jimjunker1.github.io" 
 twitter_username: jimjunker
@@ -30,8 +28,24 @@ github_username:  jimjunker1
 
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/dark.css"
+skin: "/assets/css/skins/default.css"
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  
+  # Collections
+collections:
+  musings:
+    output: true
+    permalink: /:collection/:path/
+    
+    # Musing defaults
+defaults:
+  - scope:
+      path: "_musings"
+      type: musings
+    values:
+      layout: post
+      comments: true
+      share: true

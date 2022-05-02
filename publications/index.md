@@ -1,142 +1,127 @@
 Publications
 ================
 
-This list is updated regularly. I also maintain \[scholar\]
-(<https://scholar.google.com/citations?hl=en&pli=1&user=5pxjNGYAAAAJ>)
-and \[OrcID\] (<https://orcid.org/0000-0001-9713-2330>) pages.
+This list is updated occasionally, however, it may be missing the most
+hot-off-the-press items. I also maintain
+[scholar](https://scholar.google.com/citations?hl=en&pli=1&user=5pxjNGYAAAAJ)
+and [OrcID](https://orcid.org/0000-0001-9713-2330) pages, check these
+for the most updated list.
 
-<div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+<!--- ##
 
-<div id="ref-cross2020secondary" class="csl-entry">
+-->
 
-Cross, W., K. Henderson, J. Junker, and E. Scholl. 2020. Secondary
-production. technical report, Oxford University Press.
+## preprints
 
-</div>
+## accepted/in press
 
-<div id="ref-dandrilli2019composition" class="csl-entry">
+## 2022
 
-D’NAAndrilli, J., J. Junker, H. Smith, E. Scholl, and C. Forema. 2019.
-DOM composition alters ecosystem function during microbial processing of
-isolated sources. Biogeochemistry 142:281–298.
+-   Pomeranz, J. P. F., ***J. R. Junker***, & J. S. Wesner. (2022).
+    *Individual size distributions across North America vary with local
+    temperature*. Global Change Biology 28(3): 848-858.
+    DOI:<!-- -->10.1111/gcb.15862.
+    [PDF](./publications/pdfs/Pomeranz%20et%20al.%20-%202022%20-%20Individual%20size%20distributions%20across%20North%20America.pdf).
+    Editor invited commentary [LINK](https://doi.org/10.1111/gcb.15981).
 
-</div>
+-   Reinert, J. H., ***J. R. Junker***, & L. K. Albertson. (2022).
+    *Influence of biomimicry structures on ecosystem function in a Rocky
+    Mountain incised stream*. Ecosphere 13(1):e3897.
+    DOI:<!-- -->10.1002/ecs2.3897.
+    [LINK](https://doi.org/10.1002/ECS2.3897)
 
-<div id="ref-hood2018increased" class="csl-entry">
+## 2021
 
-Hood, J., J. Benstead, W. Cross, A. Huryn, P. Johnson, G. G’ıslason, J.
-Junker, D. Nelson, J. ’Olafsson, and C. Tran. 2018. Increased resource
-use efficiency amplifies positive response of aquatic primary production
-to experimental warming. Global Change Biology 24:1069–1084.
+-   ***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M.
+    Hood, D. Nelson, G. M. Gíslason, J. S. Ólafsson. (2021). *Flow is
+    more important that temperature in driving patterns of organic
+    matter storage and stoichiometry in stream ecosystems*. Ecosystems
+    24(6):1317-1331. DOI:<!-- -->10.1007/s10021-020-00585-6.
+    [PDF](./publications/pdfs/Junker%20et%20al.%20-%202020%20-%20Flow%20is%20more%20Important%20than%20Temperature%20in%20Driving.pdf)
 
-</div>
+-   Scholl, E. A., W. F. Cross, J. R. Junker, M. J. MacDonald, J. A.
+    Sanchez-Ruiz, B. B. Tumolo, M. R. Whiles. (2021). *Are human
+    remediation efforts responsible for increases in insect abundance?*
+    Technical comment on [van Klink et al. in
+    *Science*](https://www.science.org/doi/abs/10.1126/science.aax9931).
+    [PDF](./publications/pdfs/Scholl%20et%20al.%20-%202021%20-%20Are%20human%20remediation%20efforts%20responsible%20for%20increases%20in%20insect%20abundance.pdf)
+    [LINK](https://www.science.org/do/10.1126/comment.746993/full/)
 
-<div id="ref-junker2014seasonality" class="csl-entry">
+## 2020
 
-Junker, J., and W. Cross. 2014. Seasonality in the trophic basis of a
-temperate stream invertebrate assemblage: Importance of temperature and
-food quality. Limnology and Oceanography 59:507–518.
+-   ***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M.
+    Hood, D. Nelson, G. M. Gíslason, J. S. Ólafsson. (2020). *Resource
+    supply governs the apparent temperature dependence of animal
+    production in stream ecosystems*. Ecology Letters 23(12):1809-1819.
+    DOI:<!-- -->10.1111/ele.13608.
+    [PDF](./publications/pdfs/Junker%20et%20al.%20-%202020%20-%20Resource%20supply%20governs%20the%20apparent%20temperature%20d.pdf)
 
-</div>
+-   Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P.
+    W. Johnson, ***J. R. Junker***, G. M. Gíslason, J. S. Ólafsson.
+    (2020). *Contrasting responses of black fly species (Diptera:
+    Simuliidae) to experimental whole-stream warming*. Freshwater
+    Biology 65(10):1793-1805.DOI:<!-- -->10.1111/fwb.13583.
+    [PDF](https://par.nsf.gov/servlets/purl/10228694)
 
-<div id="ref-nelson2020contrasting" class="csl-entry">
+-   Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P.
+    W. Johnson, ***J. R. Junker***, G. M. Gíslason, J. S. Ólafsson.
+    (2020). *Thermal niche diversity and trophic redundancy drive
+    neutral effects of warming on energy flux through a stream food
+    web*. Ecology 101(4):e02952.DOI:<!-- -->10.1002/ecy.2952.
+    [LINK](https://esajournals.onlinelibrary.wiley.com/doi/am-pdf/10.1002/ecy.2952)
 
-Junker, J., W. Cross, J. Benstead, A. Huryn, J. Hood, D. Nelson, G.
-G’ıslason, and J. ’Olafsson. 2020. Contrasting responses of black fly
-species (diptera: Simuliidae) to experimental whole-stream warming.
-Freshwater Biology 65:1793–1805.
+-   W. F. Cross, K. A. Henderson, ***J. R. Junker***, E. A. Scholl.
+    (2020). *Secondary Production*. Oxford Bibliographies. *Oxford
+    University Press*.
+    [DOI:10.1093/obo/9780199830060-0231](https://www.oxfordbibliographies.com/view/document/obo-9780199830060/obo-9780199830060-0231.xml)
 
-</div>
+## 2019
 
-<div id="ref-junker2021flow" class="csl-entry">
+-   J. D’Andrilli, ***J. R. Junker***, H. J. Smith, E. A. Scholl & C. M.
+    Foreman. (2019). *DOM composition alters ecosystem function during
+    microbial processing of isolated sources*. Biogeochemistry
+    142(2):281-298. DOI:<!-- -->10.1007/s10533-018-00534-5.
+    [LINK](https://link.springer.com/article/10.1007/s10533-018-00534-5)
 
-Junker, J., W. Cross, J. Benstead, A. Huryn, J. Hood, D. Nelson, G.
-G’ıslason, and J. Olafsson. 2021. Flow is more important than
-temperature in driving patterns of organic matter storage and
-stoichiometry in stream ecosystems. Ecosystems 24:1317–1331.
+## 2018
 
-</div>
+-   Hood, J. M., J. P. Benstead, W. F. Cross, A. D. Huryn, P. W.
+    Johnson, G. M. Gíslason, ***J. R. Junker***, D. Nelson, J. S.
+    Ólafsson, & C. Tran. (2018). *Increased resource use efficiency
+    amplifies positive response of aquatic primary production to
+    experimental warming*. Global Change Biology 24(3):1069-1084.
+    DOI:<!-- -->10.1111/gcb.13912.
+    [PDF](./publications/pdfs/hood_et_al-2018-global_change_biology.pdf)
 
-<div id="ref-nelson2017experimental" class="csl-entry">
+## 2017
 
-Nelson, D., J. Benstead, A. Huryn, W. Cross, J. Hood, P. Johnson, J.
-Junker, G. G’ıslason, and J. ’Olafsson. 2017a. Experimental whole-stream
-warming alters community size structure. Global Change Biology
-23:2618–2628.
+-   Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P.
+    W. Johnson, ***J. R. Junker***, G. M. Gíslason, J. S. Ólafsson.
+    (2017). *Experimental whole-stream warming alters community size
+    structure*. Global Change Biology 23(7):2618-2628.
+    DOI:<!-- -->10.1111/gcb.13574.
+    [PDF](./publications/pdfs/nelson_et_al-2016-global_change_biology.pdf)
 
-</div>
+-   Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P.
+    W. Johnson, ***J. R. Junker***, G. M. Gíslason, J. S. Ólafsson.
+    (2017). *Shifts in community size structure drive temperature
+    invariance of secondary production in a stream-warming experiment*.
+    Ecology 98(7):1797-1806. DOI:<!-- -->10.1002/ecy.1857.
+    [PDF](./publications/pdfs/nelson_et_al-2017-ecology-2.pdf)
 
-<div id="ref-nelson2017shifts" class="csl-entry">
+## 2014
 
-Nelson, D., J. Benstead, A. Huryn, W. Cross, J. Hood, P. Johnson, J.
-Junker, G. G’ıslason, and J. ’Olafsson. 2017b. Shifts in community size
-structure drive temperature invariance of secondary production in a
-stream-warming experiment. Ecology 98:1797–1806.
+-   ***Junker, J. R.***, W. F. Cross. (2014). *Seasonality in the
+    trophic basis of a temperate stream invertebrate assemblage:
+    Importance of temperature and food quality*. Limnology and
+    Oceanography 59(2):507-518. DOI:<!-- -->10.4319/lo.2014.59.2.0507.
+    [PDF](./publications/pdfs/Junker%20and%20Cross%20-%202014%20-%20Seasonality%20in%20the%20trophic%20basis%20of%20a%20temperate%20st.pdf)
 
-</div>
+## 2012
 
-<div id="ref-junker2020resource" class="csl-entry">
-
-Nelson, D., J. Benstead, A. Huryn, W. Cross, J. Hood, P. Johnson, J.
-Junker, G. G’ıslason, and J. ’Olafsson. 2020a. Resource supply governs
-the apparent temperature dependence of animal production in stream
-ecosystems. Ecology letters 23:1809–1819.
-
-</div>
-
-<div id="ref-nelson2020thermal" class="csl-entry">
-
-Nelson, D., J. Benstead, A. Huryn, W. Cross, J. Hood, P. Johnson, J.
-Junker, G. G’ıslason, and J. ’Olafsson. 2020b. Thermal niche diversity
-and trophic redundancy drive neutral effects of warming on energy flux
-through a stream food web. Ecology 101.
-
-</div>
-
-<div id="ref-ogorman2012impacts" class="csl-entry">
-
-O’Gorman, E., D. Pichler, G. Adams, J. Benstead, H. Cohen, N. Craig, W.
-Cross, B. Demars, N. Friberg, G. Gislason, R. Gudmundsdottir, A.
-Hawczak, J. Hood, L. Hudson, L. Johansson, M. Johansson, J. Junker, A.
-Laurila, J. Manson, E. Mavromati, D. Nelson, J. Olafsson, D. Perkins, O.
-Petchey, M. Plebani, D. Reuman, B. Rall, R. Stewart, M. Thompson, and G.
-Woodward. 2012. Impacts of warming on the structure and functioning of
-aquatic communities: Individual-to ecosystem-level responses. Advances
-in ecological research 47:81–176.
-
-</div>
-
-<div id="ref-pomeranz2021spatiotemporal" class="csl-entry">
-
-Pomeranz, J., J. Junker, and J. Wesner. 2021. Spatiotemporal variability
-of abundance size-spectra in streams across north america. technical
-report, Authorea Preprints.
-
-</div>
-
-<div id="ref-pomeranz2022individual" class="csl-entry">
-
-Pomeranz, J., J. Junker, and J. Wesner. 2022. Individual size
-distributions across north american streams vary with local temperature.
-Global change biology 28:848–858.
-
-</div>
-
-<div id="ref-reinert2022influence" class="csl-entry">
-
-Reinert, J., L. Albertson, and J. Junker. 2022. Influence of biomimicry
-structures on ecosystem function in a rocky mountain incised stream.
-Ecosphere 13.
-
-</div>
-
-<div id="ref-scholl2021human" class="csl-entry">
-
-Scholl, E., W. Cross, J. Junker, M. MacDonald, J. Sanchez-Ruiz, B.
-Tumolo, and M. Whiles. 2021. Are human remediation efforts responsible
-for increases in insect abundance?
-
-</div>
-
-</div>
+-   O’Gorman, E. J.,…,***J. R. Junker***,…,& G. Woodward (30 authors).
+    (2012). *Impacts of warming on the structure and functioning of
+    aquatic communities: individual- to ecosystem-level responses*.
+    Advances in ecological research 47:81-176.
+    DOI:<!-- -->10.1016/B978-0-12-398315-2.00002-8.
+    [LINK](https://www.zora.uzh.ch/id/eprint/88276/1/O%27Gorman2012Zora.pdf)
