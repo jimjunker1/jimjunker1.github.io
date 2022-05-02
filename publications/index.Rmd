@@ -1,0 +1,19 @@
+---
+layout: page
+title: "Publications"
+output: github_document
+permalink: /publications/
+bibliography: pubs.bib
+csl: ecology.csl
+nocite: '@*'
+---
+
+This list is updated regularly. I also maintain [scholar]
+(https://scholar.google.com/citations?hl=en&pli=1&user=5pxjNGYAAAAJ) and [OrcID] (<https://orcid.org/0000-0001-9713-2330>) pages.
+
+
+```{r get pubs, echo=FALSE, message=FALSE, warning=FALSE}
+
+source("./publications/get_pubs.R")
+
+```
