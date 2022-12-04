@@ -9,17 +9,11 @@ output:
 ---
 
 I am an ecologist with broad interests in the dynamics of communities
-and ecosystems. My feet are usually wet in my research working in arctic
-streams and rivers to sub-tropical estuaries. I am interested in how
-energy and elements move through ecological networks.
+and ecosystems. My research spans from arctic streams and rivers to sub-tropical estuaries.
 
 ## Main research questions
 
-## Education
+- How do energy and materials move through food webs?
 
-* PhD Montana State University. 2019
 
-* MS Montana State University. 2011
-
-* BS Northland College. 2007
 

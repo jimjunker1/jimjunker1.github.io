@@ -29,7 +29,7 @@ for the most updated list.
   *Individual size distributions across North America vary with local
   temperature*. Global Change Biology 28(3): 848-858.
   DOI:<!-- -->10.1111/gcb.15862.
-  [PDF](./publications/pdfs/Pomeranz%20et%20al.%20-%202022%20-%20Individual%20size%20distributions%20across%20North%20America.pdf).
+  [PDF](./pdfs/Pomeranz%20et%20al.%20-%202022%20-%20Individual%20size%20distributions%20across%20North%20America.pdf).
   Editor invited commentary [LINK](https://doi.org/10.1111/gcb.15981).
 
 - Reinert, J. H., ***J. R. Junker***, & L. K. Albertson. (2022).
@@ -45,14 +45,14 @@ for the most updated list.
   more important that temperature in driving patterns of organic matter
   storage and stoichiometry in stream ecosystems*. Ecosystems
   24(6):1317-1331. DOI:<!-- -->10.1007/s10021-020-00585-6.
-  [PDF](./publications/pdfs/Junker%20et%20al.%20-%202020%20-%20Flow%20is%20more%20Important%20than%20Temperature%20in%20Driving.pdf)
+  [PDF](./pdfs/Junker%20et%20al.%20-%202020%20-%20Flow%20is%20more%20Important%20than%20Temperature%20in%20Driving.pdf)
 
 - Scholl, E. A., W. F. Cross, J. R. Junker, M. J. MacDonald, J. A.
   Sanchez-Ruiz, B. B. Tumolo, & M. R. Whiles. (2021). *Are human
   remediation efforts responsible for increases in insect abundance?*
   Technical comment on [van Klink et al. in
   *Science*](https://www.science.org/doi/abs/10.1126/science.aax9931).
-  [PDF](./publications/pdfs/Scholl%20et%20al.%20-%202021%20-%20Are%20human%20remediation%20efforts%20responsible%20for%20increases%20in%20insect%20abundance.pdf)
+  [PDF](./pdfs/Scholl%20et%20al.%20-%202021%20-%20Are%20human%20remediation%20efforts%20responsible%20for%20increases%20in%20insect%20abundance.pdf)
   [LINK](https://www.science.org/do/10.1126/comment.746993/full/)
 
 ## 2020
@@ -62,7 +62,7 @@ for the most updated list.
   supply governs the apparent temperature dependence of animal
   production in stream ecosystems*. Ecology Letters 23(12):1809-1819.
   DOI:<!-- -->10.1111/ele.13608.
-  [PDF](./publications/pdfs/Junker%20et%20al.%20-%202020%20-%20Resource%20supply%20governs%20the%20apparent%20temperature%20d.pdf)
+  [PDF](./pdfs/Junker%20et%20al.%20-%202020%20-%20Resource%20supply%20governs%20the%20apparent%20temperature%20d.pdf)
 
 - Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M.
   Hood, P. W. Johnson, ***J. R. Junker***, G. M. Gíslason, & J. S.

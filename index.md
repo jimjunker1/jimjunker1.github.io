@@ -1,0 +1,23 @@
+---
+layout: home
+limit: 10
+show_excerpts: true
+entries_layout: list
+output:
+   md_document:
+    preserve_yaml: TRUE
+    variant: markdown_strict
+---
+
+I am an ecologist with broad interests in the dynamics of communities
+and ecosystems. My feet are usually wet in my research working in arctic
+streams and rivers to sub-tropical estuaries. I am interested in how
+energy and elements move through ecological networks.
+
+## Education
+
+-   PhD Montana State University. 2019
+
+-   MS Montana State University. 2011
+
+-   BS Northland College. 2007
