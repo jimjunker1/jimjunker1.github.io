@@ -21,6 +21,8 @@ source("./publications/get_pubs.R")
 
 ## accepted/in press
 
+* Keppeler, F. W., ***J. R. Junker***, M. J. Shaw, S. B. Alford, A. S. Engel, L. M. Hooper-Bùi, O. P. Jensen, K. Lamb, P. C. López-Duarte, C. W. Martin, A. M. McDonald, J. A. Olin, A. T. Paterson, M. J. Polito, N. N. Rabalais, B. J. Roberts, R. E. Rossi, E. M. Swenson. *Can created saltmarshes match biodiversity of pre-existing ones across scales? An assessment from microbes to predators*. Accepted in Ecosphere.
+
 ## 2022
 
 * Pomeranz, J. P. F., ***J. R. Junker***, & J. S. Wesner. (2022). *Individual size distributions across North America vary with local temperature*. Global Change Biology 28(3): 848-858. DOI:<!-- -->10.1111/gcb.15862. [PDF](./publications/pdfs/Pomeranz et al. - 2022 - Individual size distributions across North America.pdf). Editor invited commentary [LINK](https://doi.org/10.1111/gcb.15981).

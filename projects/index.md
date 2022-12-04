@@ -8,8 +8,4 @@ output:
     variant: markdown_strict
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-Projects page is currently under construction...
+Projects page is currently under construction…
