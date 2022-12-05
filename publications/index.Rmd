@@ -33,7 +33,7 @@ source("./publications/get_pubs.R")
 
 * ***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M. Hood, D. Nelson, G. M. G&iacute;slason, & J. S. &Oacute;lafsson. (2021). *Flow is more important that temperature in driving patterns of organic matter storage and stoichiometry in stream ecosystems*. Ecosystems 24(6):1317-1331. DOI:<!-- -->10.1007/s10021-020-00585-6. [PDF](./pdfs/Junker et al. - 2020 - Flow is more Important than Temperature in Driving.pdf)
 
-* Scholl, E. A., W. F. Cross, J. R. Junker, M. J. MacDonald, J. A. Sanchez-Ruiz, B. B. Tumolo, & M. R. Whiles. (2021). *Are human remediation efforts responsible for increases in insect abundance?* Technical comment on [van Klink et al. in *Science*](https://www.science.org/doi/abs/10.1126/science.aax9931). [PDF](./pdfs/Scholl et al. - 2021 - Are human remediation efforts responsible for increases in insect abundance.pdf) [LINK](https://www.science.org/do/10.1126/comment.746993/full/)
+* Scholl, E. A., W. F. Cross, J. R. Junker, M. J. MacDonald, J. A. Sanchez-Ruiz, B. B. Tumolo, & M. R. Whiles. (2021). *Are human remediation efforts responsible for increases in insect abundance?*. [PDF](./pdfs/Scholl et al. - 2021 - Are human remediation efforts responsible for increases in insect abundance.pdf) [LINK](https://www.science.org/do/10.1126/comment.746993/full/). Technical comment on [van Klink et al. in *Science*](https://www.science.org/doi/abs/10.1126/science.aax9931). 
 
 ## 2020
 

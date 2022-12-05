@@ -49,11 +49,11 @@ for the most updated list.
 
 - Scholl, E. A., W. F. Cross, J. R. Junker, M. J. MacDonald, J. A.
   Sanchez-Ruiz, B. B. Tumolo, & M. R. Whiles. (2021). *Are human
-  remediation efforts responsible for increases in insect abundance?*
+  remediation efforts responsible for increases in insect abundance?*.
+  [PDF](./pdfs/Scholl%20et%20al.%20-%202021%20-%20Are%20human%20remediation%20efforts%20responsible%20for%20increases%20in%20insect%20abundance.pdf)
+  [LINK](https://www.science.org/do/10.1126/comment.746993/full/).
   Technical comment on [van Klink et al. in
   *Science*](https://www.science.org/doi/abs/10.1126/science.aax9931).
-  [PDF](./pdfs/Scholl%20et%20al.%20-%202021%20-%20Are%20human%20remediation%20efforts%20responsible%20for%20increases%20in%20insect%20abundance.pdf)
-  [LINK](https://www.science.org/do/10.1126/comment.746993/full/)
 
 ## 2020
 
