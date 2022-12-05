@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+repository: jimjunker1/jimjunker1.github.io
 title: Jim Junker
 email: james.junker1@gmail.com
 logo: images/jim-logo.png
@@ -34,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-github-metadata
   
   # Collections
 collections:
