@@ -99,7 +99,7 @@ for the most updated list.
   amplifies positive response of aquatic primary production to
   experimental warming*. Global Change Biology 24(3):1069-1084.
   DOI:<!-- -->10.1111/gcb.13912.
-  [PDF](./publications/pdfs/hood_et_al-2018-global_change_biology.pdf)
+  [PDF](./pdfs/hood_et_al-2018-global_change_biology.pdf)
 
 ## 2017
 
@@ -108,14 +108,14 @@ for the most updated list.
   Ólafsson. (2017). *Experimental whole-stream warming alters community
   size structure*. Global Change Biology 23(7):2618-2628.
   DOI:<!-- -->10.1111/gcb.13574.
-  [PDF](./publications/pdfs/nelson_et_al-2016-global_change_biology.pdf)
+  [PDF](./pdfs/nelson_et_al-2016-global_change_biology.pdf)
 
 - Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M.
   Hood, P. W. Johnson, ***J. R. Junker***, G. M. Gíslason, & J. S.
   Ólafsson. (2017). *Shifts in community size structure drive
   temperature invariance of secondary production in a stream-warming
   experiment*. Ecology 98(7):1797-1806. DOI:<!-- -->10.1002/ecy.1857.
-  [PDF](./publications/pdfs/nelson_et_al-2017-ecology-2.pdf)
+  [PDF](./pdfs/nelson_et_al-2017-ecology-2.pdf)
 
 ## 2014
 
@@ -123,7 +123,7 @@ for the most updated list.
   basis of a temperate stream invertebrate assemblage: Importance of
   temperature and food quality*. Limnology and Oceanography
   59(2):507-518. DOI:<!-- -->10.4319/lo.2014.59.2.0507.
-  [PDF](./publications/pdfs/Junker%20and%20Cross%20-%202014%20-%20Seasonality%20in%20the%20trophic%20basis%20of%20a%20temperate%20st.pdf)
+  [PDF](./pdfs/Junker%20and%20Cross%20-%202014%20-%20Seasonality%20in%20the%20trophic%20basis%20of%20a%20temperate%20st.pdf)
 
 ## 2012
 

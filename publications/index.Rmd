@@ -51,17 +51,17 @@ source("./publications/get_pubs.R")
 
 ## 2018
 
-* Hood, J. M., J. P. Benstead, W. F. Cross, A. D. Huryn, P. W. Johnson, G. M. G&iacute;slason, ***J. R. Junker***, D. Nelson, J. S. &Oacute;lafsson, & C. Tran. (2018). *Increased resource use efficiency amplifies positive response of aquatic primary production to experimental warming*. Global Change Biology 24(3):1069-1084. DOI:<!-- -->10.1111/gcb.13912. [PDF](./publications/pdfs/hood_et_al-2018-global_change_biology.pdf)
+* Hood, J. M., J. P. Benstead, W. F. Cross, A. D. Huryn, P. W. Johnson, G. M. G&iacute;slason, ***J. R. Junker***, D. Nelson, J. S. &Oacute;lafsson, & C. Tran. (2018). *Increased resource use efficiency amplifies positive response of aquatic primary production to experimental warming*. Global Change Biology 24(3):1069-1084. DOI:<!-- -->10.1111/gcb.13912. [PDF](./pdfs/hood_et_al-2018-global_change_biology.pdf)
 
 ## 2017
 
-* Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P. W. Johnson, ***J. R. Junker***, G. M. G&iacute;slason, & J. S. &Oacute;lafsson. (2017). *Experimental whole-stream warming alters community size structure*. Global Change Biology 23(7):2618-2628. DOI:<!-- -->10.1111/gcb.13574. [PDF](./publications/pdfs/nelson_et_al-2016-global_change_biology.pdf)
+* Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P. W. Johnson, ***J. R. Junker***, G. M. G&iacute;slason, & J. S. &Oacute;lafsson. (2017). *Experimental whole-stream warming alters community size structure*. Global Change Biology 23(7):2618-2628. DOI:<!-- -->10.1111/gcb.13574. [PDF](./pdfs/nelson_et_al-2016-global_change_biology.pdf)
 
-* Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P. W. Johnson, ***J. R. Junker***, G. M. G&iacute;slason, & J. S. &Oacute;lafsson. (2017). *Shifts in community size structure drive temperature invariance of secondary production in a stream-warming experiment*. Ecology 98(7):1797-1806. DOI:<!-- -->10.1002/ecy.1857. [PDF](./publications/pdfs/nelson_et_al-2017-ecology-2.pdf)
+* Nelson, D., J. P. Benstead, A. D. Huryn, W. F. Cross, J. M. Hood, P. W. Johnson, ***J. R. Junker***, G. M. G&iacute;slason, & J. S. &Oacute;lafsson. (2017). *Shifts in community size structure drive temperature invariance of secondary production in a stream-warming experiment*. Ecology 98(7):1797-1806. DOI:<!-- -->10.1002/ecy.1857. [PDF](./pdfs/nelson_et_al-2017-ecology-2.pdf)
 
 ## 2014
 
-* ***Junker, J. R.*** & W. F. Cross. (2014). *Seasonality in the trophic basis of a temperate stream invertebrate assemblage: Importance of temperature and food quality*. Limnology and Oceanography 59(2):507-518. DOI:<!-- -->10.4319/lo.2014.59.2.0507. [PDF](./publications/pdfs/Junker and Cross - 2014 - Seasonality in the trophic basis of a temperate st.pdf)
+* ***Junker, J. R.*** & W. F. Cross. (2014). *Seasonality in the trophic basis of a temperate stream invertebrate assemblage: Importance of temperature and food quality*. Limnology and Oceanography 59(2):507-518. DOI:<!-- -->10.4319/lo.2014.59.2.0507. [PDF](./pdfs/Junker and Cross - 2014 - Seasonality in the trophic basis of a temperate st.pdf)
 
 ## 2012
 
