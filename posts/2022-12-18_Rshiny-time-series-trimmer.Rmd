@@ -1,0 +1,37 @@
+---
+title: Trimming time series with Rshiny
+date: "`r format(Sys.Date(),'%Y-%m-%d')`"
+layout: post
+knit: (function(inputFile, encoding){
+       rmarkdown::render(inputFile,
+       encoding=encoding,
+       output_file=here::here("_musings/**inputFile**"))})# change inputFile name here
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Synopsis
+
+I needed to view and clean long, univariate time series, for an ongoing project. In this case the data represent high-frequency sensor data with variation at multiple timescales (e.g., yearly, seasonally, daily, hourly), leading to a difficult problem when writing script to systematically identify possible 'bad' points. I developed this tool in Rshiny to help with this task. 
+
+## Background
+
+
+
+I had a few needs:
+
+1) The capability to mark and modify varying amounts of data, from individual points to large windows of time,
+
+2) The ability to zoom to varying temporal windows,
+
+3) The ability to export the cleaned data frame, and lastly, 
+
+4) To do this as openly as possible, so exactly what was done would be known and could be repeated. The ability to upload the object and view what was done would be an added bonus.
+
+Link to some resources:
+[https://www.datainwater.com/post/shiny_flux/]
+[https://github.com/KennethTM/FluxBandit]
+[https://towardsdatascience.com/end-to-end-shiny-app-tutorial-using-nyc-mortality-data-d29ad99506b9]

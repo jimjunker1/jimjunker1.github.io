@@ -1,0 +1,33 @@
+---
+title: Welcome
+date: "2023-04-04"
+layout: post
+knit: (function(inputFile, encoding){
+       rmarkdown::render(inputFile,
+       encoding=encoding,
+       output_file=here::here("_musings/**inputFile**"))})# change inputFile name here
+categories:
+  - Miscellaneous
+tags:
+  - content
+output:
+  md_document:
+    preserve_yaml: TRUE
+    variant: markdown_strict 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+# Background
+
+# Initial feelings upon offer
+
+My very first feelings were excitement at the offer. pushed it off for final decision making until the end of the week.
+
+Shortly, overwhelmed by oscillating feelings of excitement for the opportunity and stress at the upcoming decisions we have to make. Realizing I am very ill-equipped to deal with the decision making and the emotions behind it.
+
+It's my life, it is now or never
+
+How can I let myself enjoy the fact that I have be extended an offer for at least a moment before spiraling into a nervous wreck over the difficult calculus we need to do before we make 

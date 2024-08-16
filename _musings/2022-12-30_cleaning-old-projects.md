@@ -1,0 +1,88 @@
+---
+title: Cleaning up old projects
+date: "2022-12-30"
+layout: post
+knit: (function(inputFile, encoding){
+       rmarkdown::render(inputFile,
+       encoding=encoding,
+       output_file=here::here("_musings/2022-12-30_cleaning-old-projects.md"))})
+categories:
+  - Project managment
+tags:
+  - content
+  - reproducibility
+  - project management
+output:
+  md_document:
+    preserve_yaml: TRUE
+    variant: markdown_strict 
+---
+
+Project and code management is an ever evolving process. In each new
+project it seems I learn something new—often the hard way, through
+mistakes my past self did not know I was making. My most recent example
+of this came about when a paper I had been working on for ***years***
+was finally ready for submission. This happy event was interrupted when
+I realized, now I needed to open up my data and code to the world. This
+can be a nerve-wracking process and this feeling provides a nice
+reminder to **properly annotate my code**. This most recent project
+presented other challenges:
+
+-   A complicated analysis that underwent multiple mutations
+
+-   A long period between start and finish
+
+These are not unique challenges, but they were particularly egregious
+for this example for a lot of reasons. So, I took this as a learning
+opportunity. First, what are the specific issues at play here:
+
+### Complicated and mutated analysis
+
+As projects develop, sometimes they take detours. Sometimes the story of
+a paper isn’t completely clear at the outset, or maybe
+reviewers/collaborators suggest a new analysis. In this case, all of
+these things happened and I went on multiple peregrinations, each of
+which accompanied with extra code and package dependencies. This led to
+a long list of packages at the end and me unclear if they were all
+necessary and, if not, which were. This could have been avoided with a
+different workflow, or diligent pruning along the way, but you live and
+learn. I am in this situation, what can I do to move forward?
+
+### A long period between start and finish
+
+Science can be a long process. In this case, it was years between
+project initiation to submission. Over time packages get updated or
+superseded or are unceremoniously killed off and with them potential
+code dependencies. I of course could go and update all the code,
+reducing dependencies, updating syntax within functions for the most
+up-to-date versions, etc. But, this is a never ending process and at
+some point projects must be complete. So maybe there is a better way to
+do this that will alleviate this issue and also make projects more
+stable once “complete”.
+
+What better way to deal with an expanding (to the point of unknown)
+codebase and package changes, than to add another package into the mix
+😄?
+
+I think both of these areas can be addressed with a single package,
+`renv`. `renv` contains the `dependencies()` function, that identifies
+the package dependencies in a script (or many scripts). According to the
+documentation, it appears this is done by looking for explicit calls to
+packages (e.g., `library()`, `require()`). From the
+[documentation](https://rstudio.github.io/renv/reference/dependencies.html#details):
+
+> `dependencies()` will crawl files within your project, looking for R
+> files and the packages used within those R files. This is done
+> primarily by parsing the code and looking for calls of the form:
+>
+> library(package)
+>
+> require(package)
+>
+> requireNamespace(“package”)
+>
+> package::method()
+>
+> For R package projects, dependencies expressed in the DESCRIPTION file
+> will also be discovered. Note that the rmarkdown package is required
+> in order to crawl dependencies in R Markdown files.
