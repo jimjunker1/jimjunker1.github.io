@@ -80,7 +80,7 @@ pubs_mod <- pubs %>% dplyr::mutate(author = full_authors) %>%
 jrj.bib <- RefManageR::ReadGS(scholar.id = "5pxjNGYAAAAJ", sort.by.date = TRUE, check.entries = 'warn') %>%
   rlist::list.filter(names(.) %ni% c("junker2011trophic","smith2015riverine","dandrilli2016freshwater", "junker2019effects"))
 
-jrj.bib <- RefManageR::
+# jrj.bib <- RefManageR::
 # WriteBib(jrj.bib, file = "./working_scripts/pubs.bib", biblatex = FALSE)
 # jrj.bib2 <- RefManageR::ReadZotero(user = "5288391", .params = list(collection = "My Library", key = "1o3VUn2pbhJsLZn4aWRYMovx"), delete.file = FALSE)
 ## use full_author list to convert the full author list to person objects
