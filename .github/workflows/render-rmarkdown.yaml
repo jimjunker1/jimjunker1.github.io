@@ -3,9 +3,8 @@
 on:
   push:
     paths: ['**.Rmd']
-    
       # Allows you to run this workflow manually from the Actions tab
-   workflow_dispatch:
+  workflow_dispatch:
 
 name: Render Rmds
 
