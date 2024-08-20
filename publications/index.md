@@ -3,25 +3,67 @@ Publications
 
 This list is updated occasionally, however, it may be missing the most
 hot-off-the-press items. I also maintain
-[scholar](https://scholar.google.com/citations?hl=en&pli=1&user=5pxjNGYAAAAJ)
+[scholar](https://scholar.google.com/citations?user=q3E1S9MAAAAJ&hl=en)
 and [OrcID](https://orcid.org/0000-0001-9713-2330) pages, check these
 for the most updated list.
 
-<!--- ##
-
--->
+<!-- <!--- ## -->
+<!-- ```{r get pubs, echo=FALSE, message=FALSE, warning=FALSE} -->
+<!-- source("./publications/get_pubs.R") -->
+<!-- ``` -->
+<!-- -->
 
 ## preprints
 
+Gjoni, V., J. P. F. Pomeranz, ***J. R. Junker***, and J. S. Wesner.
+2024. *Size spectra in freshwater streams are consistent across
+temperature and resource supply*. bioRxiv.
+[LINK](https://doi.org/10.1101/2024.01.09.574822).
+
 ## accepted/in press
 
-- Keppeler, F. W., ***J. R. Junker***, M. J. Shaw, S. B. Alford, A. S.
-  Engel, L. M. Hooper-Bùi, O. P. Jensen, K. Lamb, P. C.
-  López-Duarte, C. W. Martin, A. M. McDonald, J. A. Olin, A. T.
-  Paterson, M. J. Polito, N. N. Rabalais, B. J. Roberts, R. E.
-  Rossi, E. M. Swenson. *Can created saltmarshes match biodiversity of
-  pre-existing ones across scales? An assessment from microbes to
-  predators*. Accepted in Ecosphere.
+## 2024
+
+***Junker, J. R.***, W. F. Cross, J. M. Hood, J. P. Benstead, A. D.
+Huryn, D. Nelson, J. S. Ólafsson, and G. M. Gíslason. 2024.
+*Environmental warming increases the importance of high-turnover energy
+channels in stream food webs*. Ecology 105:e4314.
+DOI:<!--- --->10.1002/ecy.4314.
+[PDF](./pdfs/Junker%20et%20al.%20-%202024%20-%20Environmental%20warmin%20increases%20the%20importance%20of.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4314).
+
+Pomeranz, J., ***J. R. Junker***, V. Gjoni, and J. S. Wesner. 2024.
+*Maximum likelihood outperforms binning methods for detecting
+differences in abundance size spectra across environmental gradients*.
+Journal of Animal Ecology
+93:267–280.DOI:<!--- --->10.1111/1365-2656.14044.
+[PDF](./pdfs/Pomeranz%20et%20al.%20-%202024%20-%20Maximum%20likelihood%20outperforms%20binning%20methods%20for.pdf).
+[LINK](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14044).
+
+Wesner, J. S., J. P. F. Pomeranz, ***J. R. Junker***, and V. Gjoni.
+2024. *Bayesian hierarchical modelling of size spectra*. Methods in
+Ecology and Evolution 15:856–867. DOI:
+<!--- --->10.1111/2041-210X.14312.
+[PDF](./pdfs/Wesner%20et%20al.%20-%202024%20-%20Bayesian%20hierarchical%20modelling%20of%20size%20spectra.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14312).
+
+## 2023
+
+Scholl, E. A., W. F. Cross, C. S. Guy, A. J. Dutton, and ***J. R.
+Junker***. 2023. *Landscape diversity promotes stable food-web
+architectures in large rivers*. Ecology Letters 26:1740–1751.
+DOI:<!--- --->10.1111/ele.14289.
+[PDF](./pdfs/Scholl%20et%20al.%20-%202023%20-%20Landscape%20diversity%20promotes%20stable%20food-web%20archi.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14289)
+
+Keppeler, F. W., ***J. R. Junker***, M. J. Shaw, S. B. Alford, A. S.
+Engel, L. M. Hooper-Bùi, O. P. Jensen, K. Lamb, P. C. López-Duarte, C.
+W. Martin, A. M. McDonald, J. A. Olin, A. T. Paterson, M. J. Polito, N.
+N. Rabalais, B. J. Roberts, R. E. Rossi, and E. M. Swenson. 2023. *Can
+biodiversity of preexisting and created salt marshes match across
+scales? An assessment from microbes to predators*. Ecosphere 14:e4461.
+DOI:<!-- -->10.1002/ecs2.4461.[PDF](./pdfs/Keppeler%20et%20al.%20-%202023%20-%20Can%20biodiversity%20of%20preexisting%20and%20created%20salt%20m.pdf).
+[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecs2.4461)
 
 ## 2022
 

@@ -10,13 +10,14 @@ permalink: /publications/
 
 This list is updated occasionally, however, it may be missing the most hot-off-the-press items. I also maintain [scholar](https://scholar.google.com/citations?user=q3E1S9MAAAAJ&hl=en) and [OrcID](<https://orcid.org/0000-0001-9713-2330>) pages, check these for the most updated list.
 
-<!--- ##
-```{r get pubs, echo=FALSE, message=FALSE, warning=FALSE}
+<!-- <!--- ## -->
+<!-- ```{r get pubs, echo=FALSE, message=FALSE, warning=FALSE} -->
 
-source("./publications/get_pubs.R")
+<!-- source("./publications/get_pubs.R") -->
 
-```
--->
+<!-- ``` -->
+<!-- -->
+
 ## preprints
 
 Gjoni, V., J. P. F. Pomeranz, ***J. R. Junker***, and J. S. Wesner. 2024. *Size spectra in freshwater streams are consistent across temperature and resource supply*. bioRxiv. [LINK](https://doi.org/10.1101/2024.01.09.574822).
