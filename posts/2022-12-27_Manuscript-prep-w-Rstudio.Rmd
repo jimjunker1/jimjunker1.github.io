@@ -1,6 +1,6 @@
 ---
 title: Manuscript workflow with Rmarkdown and Word
-date: "`r format(Sys.Date(),'%Y-%m-%d')`"
+date: "2024-06-01"
 layout: post
 knit: (function(inputFile, encoding){
        rmarkdown::render(inputFile,

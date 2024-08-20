@@ -23,8 +23,8 @@ title: Jim Junker
 email: james.junker1@gmail.com
 logo: images/jim-logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jimjunker1.github.io"
-# url: "https://www.jimjunker.com"
+# url: "https://jimjunker1.github.io"
+url: "https://www.jimjunker.com"
 twitter_username: jimjunker
 github_username:  jimjunker1
 

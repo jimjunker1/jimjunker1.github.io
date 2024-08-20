@@ -5,7 +5,7 @@ layout: post
 knit: (function(inputFile, encoding){
        rmarkdown::render(inputFile,
        encoding=encoding,
-       output_file=here::here("_musings/2022-12-30_cleaning-old-projects.md"))})
+       output_file=here::here("_musings/**inputFile**"))})# change inputFile name here
 categories:
   - Project managment
 tags:
