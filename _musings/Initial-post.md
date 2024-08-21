@@ -1,7 +1,7 @@
 ---
 title: Welcome
 date: "2022-05-02"
-layout: post
+layout: collection
 knit: (function(inputFile, encoding){
        rmarkdown::render(inputFile,
        encoding=encoding,

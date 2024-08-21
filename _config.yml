@@ -41,14 +41,14 @@ plugins:
 collections:
   musings:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:title
     
     # Musing defaults
-defaults:
-  - scope:
-      path: "_musings"
-      type: musings
-    values:
-      layout: post
-      comments: true
-      share: true
+# defaults:
+#   - scope:
+#       path: "_musings"
+#       type: musings
+#     values:
+#       layout: post
+#       comments: true
+#       share: true
