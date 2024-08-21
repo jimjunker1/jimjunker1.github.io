@@ -9,8 +9,6 @@ output:
     variant: markdown_strict
 ---
 
-# Biography
-
 I am an ecologist with broad interests in the dynamics of communities
 and ecosystems. My feet are usually wet. I am interested in how
 energy and elements move through ecological networks and the processes that modify energy and element flows across space and time. We take multiple approaches to address these questions including combinations of mesocosm to ecosystem-level experiments, field collections, meta-analyses, and modeling. 
