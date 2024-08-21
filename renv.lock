@@ -236,6 +236,16 @@
       ],
       "Hash": "543776ae6848fde2f48ff3816d0628bc"
     },
+    "base64url": {
+      "Package": "base64url",
+      "Version": "1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "backports"
+      ],
+      "Hash": "0c54cf3a08cc0e550fbd64ad33166143"
+    },
     "bibtex": {
       "Package": "bibtex",
       "Version": "0.5.1",
@@ -382,6 +392,16 @@
         "utils"
       ],
       "Hash": "3f038e5ac7f41d4ac41ce658c85e3042"
+    },
+    "codetools": {
+      "Package": "codetools",
+      "Version": "0.2-20",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "61e097f35917d342622f21cdc79c256e"
     },
     "colorspace": {
       "Package": "colorspace",
@@ -920,6 +940,16 @@
         "vctrs"
       ],
       "Hash": "9171f898db9d9c4c1b2c745adc2c1ef1"
+    },
+    "here": {
+      "Package": "here",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "rprojroot"
+      ],
+      "Hash": "24b224366f9c2e7534d2344d10d59211"
     },
     "highr": {
       "Package": "highr",
@@ -1502,6 +1532,16 @@
       ],
       "Hash": "c5df0d4de0046301afe0fd4a7137db1d"
     },
+    "rprojroot": {
+      "Package": "rprojroot",
+      "Version": "2.0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "4c8415e0ec1e29f3f4f6fc108bef0144"
+    },
     "rstudioapi": {
       "Package": "rstudioapi",
       "Version": "0.16.0",
@@ -1582,6 +1622,16 @@
       ],
       "Hash": "9ad0ff7b08161a11df62b43a533930ac"
     },
+    "secretbase": {
+      "Package": "secretbase",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "28495386ab3f1e83c237c6d519508fe7"
+    },
     "selectr": {
       "Package": "selectr",
       "Version": "0.4-2",
@@ -1643,6 +1693,34 @@
         "lifecycle"
       ],
       "Hash": "213b6b8ed5afbf934843e6c3b090d418"
+    },
+    "targets": {
+      "Package": "targets",
+      "Version": "1.7.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "R6",
+        "base64url",
+        "callr",
+        "cli",
+        "codetools",
+        "data.table",
+        "igraph",
+        "knitr",
+        "ps",
+        "rlang",
+        "secretbase",
+        "stats",
+        "tibble",
+        "tidyselect",
+        "tools",
+        "utils",
+        "vctrs",
+        "yaml"
+      ],
+      "Hash": "d79b21ef513564351577d7064e1fc4dd"
     },
     "textshaping": {
       "Package": "textshaping",

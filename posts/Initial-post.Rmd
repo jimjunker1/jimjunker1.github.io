@@ -5,7 +5,7 @@ layout: post
 knit: (function(inputFile, encoding){
        rmarkdown::render(inputFile,
        encoding=encoding,
-       output_file=here::here("_musings/2022-05-02_Initial-post.md"))})
+       output_file=here::here("_musings/Initial-post.md"))})
 categories:
   - Miscellaneous
 tags:

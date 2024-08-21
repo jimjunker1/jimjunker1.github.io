@@ -9,7 +9,7 @@ name: Deploy Jekyll site to Pages
 on:
   # Runs following the render-rmarkdown targeting the default branch
   workflow_run:
-    workflows: ["Render Rmds"]
+    workflows: ["targets"]
     branches: ["main"]
     types: [completed]
 
