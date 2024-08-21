@@ -2,10 +2,9 @@
 title: "Confusion:MaxEnt"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 layout: post
-knit: (function(inputFile, encoding){
-       rmarkdown::render(inputFile,
-       encoding=encoding,
-       output_file=here::here("_musings/**inputFile**"))})# change inputFile name here
+# knit: (function(inputFile, encoding){
+#        rmarkdown::render(inputFile,
+#        encoding=encoding)})
 categories:
   - Miscellaneous
 tags:

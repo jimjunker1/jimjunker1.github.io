@@ -54,7 +54,8 @@ tar_source()
 list(
   tar_render(
     name = MaxEnt,
-    here("posts/Confusions--MaxEnt.Rmd")
+    path = here("posts/Confusions--MaxEnt.Rmd"),
+    output = here("_musings/Confusions--MaxEnt.md")
     # format = "qs" # Efficient storage for general data objects.
   )#,
   # tar_render(

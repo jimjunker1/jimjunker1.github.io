@@ -29,8 +29,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  on-success:
-    if: ${{ github.event.workflow_run.conclusion == 'success'}}
   # Build job
   build:
     runs-on: ubuntu-latest
