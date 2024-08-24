@@ -17,26 +17,149 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+maxent <- function(A, b) {
+  # A: design matrix where each row is a constraint and each column corresponds to a species
+  # b: target values for the constraints (e.g., total metabolic rates)
+  
+  # Define the objective function (negative entropy)
+  # x are the metabolic rates we're trying to estimate
+  objective_function <- function(x) {
+    # Ensure x is non-negative
+    x <- pmax(x, 1e-10)
+    
+    # Calculate negative entropy
+    entropy <- sum(x * log(x))
+    
+    # Penalize based on the constraints (Ax = b)
+    penalty <- sum((A %*% x - b)^2)
+    
+    # Return the sum of negative entropy and the penalty
+    return(entropy + penalty)
+  }
+  
+  # Initial guess for the species' metabolic rates
+  init_guess <- rep(1, ncol(A))
+  
+  # Use optim to minimize the objective function
+  result <- optim(init_guess, objective_function, method = "L-BFGS-B", lower = 1e-10)
+  
+  # Return the estimated metabolic rates
+  return(result$par)
+}
+
+# Example usage:
+
+# Suppose we have a simple case with 3 communities and 2 species
+A <- matrix(c(
+  0.5, 0.5,
+  0.3, 0.7,
+  0.6, 0.4
+), nrow = 3, byrow = TRUE)
+# 
+# # Target values for the communities (e.g., total metabolic rates)
+b <- c(100, 100, 100)
+# 
+# # Estimate the most likely metabolic rates for the two species
+estimated_metabolic_rates <- maxent(A, b)
+# 
+# # Print the results
+# cat("Estimated Metabolic Rates for Species 1 and 2:\n")
+# print(estimated_metabolic_rates)
+
 ```
 
-## GitHub Documents
+Setting up the problem. 
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+-Ecological inference problem
 
-## Including Code
+```{r init}
 
-You can include R code in the document as follows:
+# Define the constraints
+total_metabolic_rate <- 100  # Total ecosystem metabolic rate
+species_proportions <- c(0.4, 0.6)  # Proportions of metabolic rates for species 1 and 2
 
-```{r cars}
-summary(cars)
+# Define the number of species
+n_species <- length(species_proportions)
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
+# Set up the maximum entropy problem
+# The constraints are the total metabolic rate and the species proportions
+# We seek the most likely distribution of individual metabolic rates given these constraints
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+```{r}
+# Set up the target (expected) values for each constraint
+target_values <- c(total_metabolic_rate * species_proportions, total_metabolic_rate)
+
+# Define the design matrix
+# The first n_species columns correspond to individual species' contributions
+# The last column ensures the total sums to total_metabolic_rate
+A <- rbind(diag(n_species), rep(1, n_species))
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+# Apply the maxent function to solve for the most likely distribution
+result <- maxent(A, target_values)
+
+# # Extract the inferred metabolic rates for each species
+# inferred_metabolic_rates <- result
+
+```
+
+```{r}
+# Print the results
+cat("Inferred Metabolic Rates for Species 1 and 2:\n")
+print(inferred_metabolic_rates)
+cat("Sum of inferred metabolic rates (should equal total metabolic rate):\n")
+print(sum(inferred_metabolic_rates))
+```
+
+
+#### example 2 ---
+
+```{r}
+# Assume you have 10 communities and 5 species
+# The community data matrix includes the relative abundances of species
+community_data <- matrix(c(
+  0.5, 0.5, 0.0, 0.0, 0.0,  # Community 1
+  0.3, 0.7, 0.0, 0.0, 0.0,  # Community 2
+  0.0, 0.6, 0.4, 0.0, 0.0,  # Community 3
+  0.0, 0.0, 0.5, 0.5, 0.0,  # Community 4
+  0.2, 0.2, 0.3, 0.3, 0.0,  # Community 5
+  0.1, 0.0, 0.0, 0.6, 0.3,  # Community 6
+  0.0, 0.0, 0.0, 0.7, 0.3,  # Community 7
+  0.4, 0.0, 0.3, 0.3, 0.0,  # Community 8
+  0.0, 0.0, 0.0, 0.0, 1.0,  # Community 9
+  0.2, 0.3, 0.1, 0.3, 0.1   # Community 10
+), nrow = 10, byrow = TRUE)
+
+# Define the total abundance for each community
+total_abundance <- c(200, 100, 150, 200, 120, 80, 90, 110, 50, 140)
+
+# Define the total metabolic rate for each community (assumed)
+total_metabolic_rate <- rlnorm(10, log(20), log(4))
+
+# Adjust the total metabolic rate by the total abundance to get per-capita rates
+per_capita_metabolic_rate <- total_metabolic_rate / total_abundance
+
+# Design matrix (same as before, representing relative abundances)
+A <- community_data
+
+# Target vector (per-capita metabolic rate for each community)
+b <- per_capita_metabolic_rate
+
+# Apply the maximum entropy estimation
+result <- maxent(A, b)
+
+r1 =(result[1]*(community_data[,1]*total_abundance))/total_metabolic_rate
+r2 = (result[2]*(community_data[,2]*total_abundance))/total_metabolic_rate
+test = ((community_data %*% result) * total_abundance)/total_metabolic_rate
+
+
+# Print the inferred per-capita metabolic rates for the species
+cat("Inferred Per-Capita Metabolic Rates for Species 1 to 5:\n")
+print(result)
+
+```
+

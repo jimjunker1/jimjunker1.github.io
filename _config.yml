@@ -32,7 +32,7 @@ github_username:  jimjunker1
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-github-metadata
