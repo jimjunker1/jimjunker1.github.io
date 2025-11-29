@@ -10,8 +10,8 @@ i_am("_targets.R")
 # library(tarchetypes) # Load other packages as needed.
 
 # Set target options:
-tar_option_set(
-  packages = c("tibble") # Packages that your targets need for their tasks.
+# tar_option_set(
+  # packages = c("tibble") # Packages that your targets need for their tasks.
   # format = "qs", # Optionally set the default storage format. qs is fast.
   #
   # Pipelines that take a long time to run may benefit from
@@ -44,7 +44,7 @@ tar_option_set(
   #   )
   #
   # Set other options as needed.
-)
+# )
 
 # Run the R scripts in the R/ folder with your custom functions:
 # tar_source()
@@ -52,7 +52,7 @@ tar_option_set(
 
 # Replace the target list below with your own:
 list(
-  tar_render(
+  targets::tar_render(
     name = MaxEnt,
     path = here("posts/Confusions--MaxEnt.Rmd"),
     output = here("_musings/Confusions--MaxEnt.md")

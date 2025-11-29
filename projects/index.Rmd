@@ -12,4 +12,3 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Projects page is currently under construction...

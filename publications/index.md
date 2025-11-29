@@ -8,31 +8,86 @@ and [OrcID](https://orcid.org/0000-0001-9713-2330) pages, check these
 for the most updated list.
 
 <!-- <!--- ## -->
+
 <!-- ```{r get pubs, echo=FALSE, message=FALSE, warning=FALSE} -->
+
 <!-- source("./publications/get_pubs.R") -->
+
 <!-- ``` -->
+
 <!-- -->
 
 ## preprints
 
 Gjoni, V., J. P. F. Pomeranz, ***J. R. Junker***, and J. S. Wesner.
-2024. *Size spectra in freshwater streams are consistent across
-temperature and resource supply*. bioRxiv.
-[LINK](https://doi.org/10.1101/2024.01.09.574822).
+(2024). *Size spectra in freshwater streams are consistent across
+temperature and resource supply*. bioRxiv. [LINK](https://doi.org/10.1101/2024.01.09.574822).
+
+Gjoni, V., D. S. Glazier, J. Pomeranz, ***J. R. Junker***, A. Smith, J.
+Woelber, S. Reynolds, T. Welch, and J. S. Wesner. 2025. *Temperature and
+predation alter metabolic scaling without changing size-based community
+structure in freshwater macroinvertebrates*.
+bioRxiv. [LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract).
+
+Mello, J. L. da S., L. J. Venuso, J. M. Braga, P. B. Guerra, E. M.
+Shimabukuro, T. Siqueira, ***J. R. Junker***, and V. S. Saito.
+*Ontogenetic Carnivory Drives Secondary Production Across a Productivity
+Gradient*.
+ecoevoRxiv. [LINK](https://ecoevorxiv.org/repository/view/9640/).
 
 ## accepted/in press
+
+## 2025
+
+Stutter, M., L. Jackson-Blake, M. McGovern, J. D’Andrilli, ***J. R.
+Junker***, P. Dörsch, H. Watson, S. R. Karlsen, and B. O. L. Demars.
+2025. *Riparian Soils Inform Dissolved Organic Matter Delivery in a
+Norwegian Subarctic River*. European Journal of Soil Science 76:e70185.
+DOI:<!--- --->10.1111/ejss.70185.
+[PDF](./pdfs/Stutter%20et%20al.%20-%202025%20-%20Riparian%20Soils%20Inform%20Dissolved%20Organic%20Matter%20Delivery%20in%20a%20Norwegian%20Subarctic%20River.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejss.70185).
+
+Landreth, J. H., B. A. Murry, K. A. Adase, C. C. Arantes, D. M. Smith,
+D. I. Wellman, ***J. R. Junker***, J. P. F. Pomeranz, and J. S. Wesner.
+2025. *Ecosystem Size and Functional Group Relative Abundance Drive
+Stream Community Body Size Structure*. Fishes 10:419.
+DOI:<!--- --->10.3390/fishes10080419.
+[PDF](./pdfs/Landreth%20et%20al.%20-%202025%20-%20Ecosystem%20Size%20and%20Functional%20Group%20Relative%20Abundance%20Drive%20Stream%20Community%20Body%20Size%20Structure.pdf).
+[LINK](https://www.mdpi.com/2410-3888/10/8/419).
+
+Ersoy, Z., C. Evangelista, A. Larrañaga, D. M. Perkins, J.
+Sánchez-Hernández, T. Chonova, D. Cunillera-Montcusí, C. García-Comas,
+J. García-Girón, I. de Guzman, J. Pomeranz, V. Saito, M. Arim, D.
+Baumgartner, G. Baumgartner, M. Berazategui, D. Boix, G. Collyer, J.
+Compte, A. M. Cunico, R. M. van Dorst, J. Harding, U. Gaedke, S. Gascón,
+É. A. Gubiani, D. Hernández, ***J. R. Junker***, M. López-Vázquez, A. L.
+Maciel, T. Mehner, R. P. Mormul, R. Pereira-Garbero, D. Petsch, P. A.
+Piana, X. D. Quintana, J. Reiss, L. Rodríguez-Tricot, J. Sala, W. S.
+Serra, T. Siqueira, H. J. Warburton, M. Zarucki, and I. Arranz. 2025.
+*GLOSSAQUA: A global dataset of size spectra across aquatic ecosystems*.
+Ecology 106:e70050. DOI:<!--- --->10.1002/ecy.70050.
+[PDF](./pdfs/Ersoy%20et%20al.%20-%202025%20-%20GLOSSAQUA%20A%20global%20dataset%20of%20size%20spectra%20across%20aquatic%20ecosystems.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.70050).
+
+Bradley, L. M., E. S. Duvall, O. J. Akinnifesi, T. Novotná Jaroměřská,
+***J. R. Junker***, and E. Wong. 2025. *Exploring the multi-scale
+ecological consequences of stoichiometric imbalance using an agent-based
+modeling approach*. Frontiers in Ecology and Evolution 13 1505145.
+DOI:<!--- --->10.3389/fevo.2025.1505145.
+[PDF](./pdfs/Bradley%20et%20al.%20-%202025%20-%20Exploring%20the%20multi-scale%20ecological%20consequences%20of%20stoichiometric%20imbalance%20using%20an%20agent-based%20m.pdf).
+[LINK](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1505145/full).
 
 ## 2024
 
 ***Junker, J. R.***, W. F. Cross, J. M. Hood, J. P. Benstead, A. D.
-Huryn, D. Nelson, J. S. Ólafsson, and G. M. Gíslason. 2024.
+Huryn, D. Nelson, J. S. Ólafsson, and G. M. Gíslason. (2024).
 *Environmental warming increases the importance of high-turnover energy
 channels in stream food webs*. Ecology 105:e4314.
 DOI:<!--- --->10.1002/ecy.4314.
 [PDF](./pdfs/Junker%20et%20al.%20-%202024%20-%20Environmental%20warmin%20increases%20the%20importance%20of.pdf).
 [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4314).
 
-Pomeranz, J., ***J. R. Junker***, V. Gjoni, and J. S. Wesner. 2024.
+Pomeranz, J., ***J. R. Junker***, V. Gjoni, and J. S. Wesner. (2024).
 *Maximum likelihood outperforms binning methods for detecting
 differences in abundance size spectra across environmental gradients*.
 Journal of Animal Ecology
@@ -41,16 +96,15 @@ Journal of Animal Ecology
 [LINK](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14044).
 
 Wesner, J. S., J. P. F. Pomeranz, ***J. R. Junker***, and V. Gjoni.
-2024. *Bayesian hierarchical modelling of size spectra*. Methods in
-Ecology and Evolution 15:856–867. DOI:
-<!--- --->10.1111/2041-210X.14312.
+(2024). *Bayesian hierarchical modelling of size spectra*. Methods in
+Ecology and Evolution 15:856–867. DOI:<!--- --->10.1111/2041-210X.14312.
 [PDF](./pdfs/Wesner%20et%20al.%20-%202024%20-%20Bayesian%20hierarchical%20modelling%20of%20size%20spectra.pdf).
 [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14312).
 
 ## 2023
 
 Scholl, E. A., W. F. Cross, C. S. Guy, A. J. Dutton, and ***J. R.
-Junker***. 2023. *Landscape diversity promotes stable food-web
+Junker***. (2023). *Landscape diversity promotes stable food-web
 architectures in large rivers*. Ecology Letters 26:1740–1751.
 DOI:<!--- --->10.1111/ele.14289.
 [PDF](./pdfs/Scholl%20et%20al.%20-%202023%20-%20Landscape%20diversity%20promotes%20stable%20food-web%20archi.pdf).
@@ -59,7 +113,7 @@ DOI:<!--- --->10.1111/ele.14289.
 Keppeler, F. W., ***J. R. Junker***, M. J. Shaw, S. B. Alford, A. S.
 Engel, L. M. Hooper-Bùi, O. P. Jensen, K. Lamb, P. C. López-Duarte, C.
 W. Martin, A. M. McDonald, J. A. Olin, A. T. Paterson, M. J. Polito, N.
-N. Rabalais, B. J. Roberts, R. E. Rossi, and E. M. Swenson. 2023. *Can
+N. Rabalais, B. J. Roberts, R. E. Rossi, and E. M. Swenson. (2023). *Can
 biodiversity of preexisting and created salt marshes match across
 scales? An assessment from microbes to predators*. Ecosphere 14:e4461.
 DOI:<!-- -->10.1002/ecs2.4461.[PDF](./pdfs/Keppeler%20et%20al.%20-%202023%20-%20Can%20biodiversity%20of%20preexisting%20and%20created%20salt%20m.pdf).

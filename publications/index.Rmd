@@ -22,13 +22,28 @@ This list is updated occasionally, however, it may be missing the most hot-off-t
 
 Gjoni, V., J. P. F. Pomeranz, ***J. R. Junker***, and J. S. Wesner. (2024). *Size spectra in freshwater streams are consistent across temperature and resource supply*. bioRxiv. [LINK](https://doi.org/10.1101/2024.01.09.574822).
 
+Gjoni, V., D. S. Glazier, J. Pomeranz, ***J. R. Junker***, A. Smith, J. Woelber, S. Reynolds, T. Welch, and J. S. Wesner. 2025. *Temperature and predation alter metabolic scaling without changing size-based community structure in freshwater macroinvertebrates*. bioRxiv.[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract)
+
+Mello, J. L. da S., L. J. Venuso, J. M. Braga, P. B. Guerra, E. M. Shimabukuro, T. Siqueira, ***J. R. Junker***, and V. S. Saito. *Ontogenetic Carnivory Drives Secondary Production Across a Productivity Gradient*. ecoevoRxiv[LINK](https://ecoevorxiv.org/repository/view/9640/)
+
+
 ## accepted/in press
+
+## 2025
+
+Stutter, M., L. Jackson-Blake, M. McGovern, J. D’Andrilli, ***J. R. Junker***, P. Dörsch, H. Watson, S. R. Karlsen, and B. O. L. Demars. 2025. *Riparian Soils Inform Dissolved Organic Matter Delivery in a Norwegian Subarctic River*. European Journal of Soil Science 76:e70185. DOI:<!--- --->10.1111/ejss.70185. [PDF](./pdfs/Stutter et al. - 2025 - Riparian Soils Inform Dissolved Organic Matter Delivery in a Norwegian Subarctic River.pdf). [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejss.70185).
+
+Landreth, J. H., B. A. Murry, K. A. Adase, C. C. Arantes, D. M. Smith, D. I. Wellman, ***J. R. Junker***, J. P. F. Pomeranz, and J. S. Wesner. 2025. *Ecosystem Size and Functional Group Relative Abundance Drive Stream Community Body Size Structure*. Fishes 10:419. DOI:<!--- --->10.3390/fishes10080419. [PDF](./pdfs/Landreth et al. - 2025 - Ecosystem Size and Functional Group Relative Abundance Drive Stream Community Body Size Structure.pdf). [LINK](https://www.mdpi.com/2410-3888/10/8/419).
+
+Ersoy, Z., C. Evangelista, A. Larrañaga, D. M. Perkins, J. Sánchez-Hernández, T. Chonova, D. Cunillera-Montcusí, C. García-Comas, J. García-Girón, I. de Guzman, J. Pomeranz, V. Saito, M. Arim, D. Baumgartner, G. Baumgartner, M. Berazategui, D. Boix, G. Collyer, J. Compte, A. M. Cunico, R. M. van Dorst, J. Harding, U. Gaedke, S. Gascón, É. A. Gubiani, D. Hernández, ***J. R. Junker***, M. López-Vázquez, A. L. Maciel, T. Mehner, R. P. Mormul, R. Pereira-Garbero, D. Petsch, P. A. Piana, X. D. Quintana, J. Reiss, L. Rodríguez-Tricot, J. Sala, W. S. Serra, T. Siqueira, H. J. Warburton, M. Zarucki, and I. Arranz. 2025. *GLOSSAQUA: A global dataset of size spectra across aquatic ecosystems*. Ecology 106:e70050.  DOI:<!--- --->10.1002/ecy.70050. [PDF](./pdfs/Ersoy et al. - 2025 - GLOSSAQUA A global dataset of size spectra across aquatic ecosystems.pdf). [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.70050).
+
+Bradley, L. M., E. S. Duvall, O. J. Akinnifesi, T. Novotná Jaroměřská, ***J. R. Junker***, and E. Wong. 2025. *Exploring the multi-scale ecological consequences of stoichiometric imbalance using an agent-based modeling approach*. Frontiers in Ecology and Evolution 13 1505145. DOI:<!--- --->10.3389/fevo.2025.1505145. [PDF](./pdfs/Bradley et al. - 2025 - Exploring the multi-scale ecological consequences of stoichiometric imbalance using an agent-based m.pdf). [LINK](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1505145/full).
 
 ## 2024
 
-***Junker, J. R.***, W. F. Cross, J. M. Hood, J. P. Benstead, A. D. Huryn, D. Nelson, J. S. Ólafsson, and G. M. Gíslason. (2024). *Environmental warming increases the importance of high-turnover energy channels in stream food webs*. Ecology 105:e4314. DOI:<!--- --->10.1002/ecy.4314. [PDF](./pdfs/Junker et al. - 2024 - Environmental warmin increases the importance of.pdf). [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4314).
+***Junker, J. R.***, W. F. Cross, J. M. Hood, J. P. Benstead, A. D. Huryn, D. Nelson, J. S. Ólafsson, and G. M. Gíslason. (2024). *Environmental warming increases the importance of high-turnover energy channels in stream food webs*. Ecology 105:e4314. DOI:<!--- --->10.1002/ecy.4314. [PDF](./pdfs/Junker et al. - 2024 - Environmental warmin increases the importance of.pdf).  [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4314).
 
-Pomeranz, J., ***J. R. Junker***, V. Gjoni, and J. S. Wesner. (2024). *Maximum likelihood outperforms binning methods for detecting differences in abundance size spectra across environmental gradients*. Journal of Animal Ecology 93:267–280.DOI:<!--- --->10.1111/1365-2656.14044. [PDF](./pdfs/Pomeranz et al. - 2024 - Maximum likelihood outperforms binning methods for.pdf). [LINK](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14044).
+Pomeranz, J., ***J. R. Junker***, V. Gjoni, and J. S. Wesner. (2024). *Maximum likelihood outperforms binning methods for detecting differences in abundance size spectra across environmental gradients*. Journal of Animal Ecology 93:267–280.DOI:<!--- --->10.1111/1365-2656.14044. [PDF](./pdfs/Pomeranz et al. - 2024 - Maximum likelihood outperforms binning methods for.pdf).  [LINK](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14044).
 
 Wesner, J. S., J. P. F. Pomeranz, ***J. R. Junker***, and V. Gjoni. (2024). *Bayesian hierarchical modelling of size spectra*. Methods in Ecology and Evolution 15:856–867. DOI:<!--- --->10.1111/2041-210X.14312. [PDF](./pdfs/Wesner et al. - 2024 - Bayesian hierarchical modelling of size spectra.pdf). [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14312).
 

@@ -1,7 +1,7 @@
 ---
 title: "Confusion:MaxEnt"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
-layout: post
+layout: collection
 # knit: (function(inputFile, encoding){
 #        rmarkdown::render(inputFile,
 #        encoding=encoding)})
@@ -163,3 +163,79 @@ print(result)
 
 ```
 
+```{r}
+# Load necessary library
+library(rstan)
+
+# Example data: 3 communities, 3 species
+n <- matrix(c(
+  10, 20, 30,   # Community 1
+  5,  10, 15,   # Community 2
+  15, 25, 10    # Community 3
+), nrow = 3, byrow = TRUE)
+
+M <- c(1000, 500, 900)  # Example total metabolic rates for the communities
+
+# Data list for STAN
+stan_data <- list(
+  K = nrow(n),
+  S = ncol(n),
+  n = n,
+  M = M
+)
+
+# STAN model code (as a string)
+stan_model_code <- "
+data {
+  int<lower=1> K;        // Number of communities
+  int<lower=1> S;        // Number of species
+  matrix[K, S] n;        // Abundance matrix (K x S)
+  vector[K] M;           // Observed total metabolic rates for each community
+}
+
+parameters {
+  vector[S] alpha;              // Baseline metabolic rates for each species
+  matrix[S, S] a;               // Interaction terms (S x S matrix)
+  real<lower=0> sigma;          // Error standard deviation
+}
+
+model {
+  vector[K] M_hat;              // Predicted metabolic rates
+
+  // Priors (you may adjust based on prior knowledge)
+  alpha ~ normal(0, 1);
+  to_vector(a) ~ normal(0, 1);
+  sigma ~ normal(0, 1);
+
+  // Likelihood
+  for (k in 1:K) {
+    M_hat[k] = 0;
+    for (i in 1:S) {
+      real m_i_k = alpha[i];
+      for (j in 1:S) {
+        m_i_k += a[i,j] * n[k, j];
+      }
+      M_hat[k] += m_i_k * n[k, i];
+    }
+  }
+  M ~ normal(M_hat, sigma);
+}
+"
+
+# Compile the STAN model
+stan_model <- stan_model(model_code = stan_model_code, data = stan_data, 
+                         iter = 2000, chains = 4)
+
+# Print results
+print(stan_model)
+
+# Extract the results
+stan_results <- extract(stan_model)
+
+# Posterior distributions for alpha and a (species interaction terms)
+alpha_posterior <- stan_results$alpha
+a_posterior <- stan_results$a
+
+# Summary of the posterior
+summary(stan_model)
+```
