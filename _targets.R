@@ -6,8 +6,8 @@
 # Load packages required to define the pipeline:
 library(targets)
 library(here)
+library(tarchetypes) # Load other packages as needed.
 i_am("_targets.R")
-# library(tarchetypes) # Load other packages as needed.
 
 # Set target options:
 # tar_option_set(
