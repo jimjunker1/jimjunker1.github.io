@@ -103,7 +103,7 @@ A <- rbind(diag(n_species), rep(1, n_species))
 result <- maxent(A, target_values)
 
 # # Extract the inferred metabolic rates for each species
-# inferred_metabolic_rates <- result
+inferred_metabolic_rates <- result
 
 ```
 
@@ -166,6 +166,8 @@ print(result)
 ```{r}
 # Load necessary library
 library(rstan)
+options(mc.cores = parallel::detectCores())
+rstan_options(auto_write = TRUE)
 
 # Example data: 3 communities, 3 species
 n <- matrix(c(
@@ -223,19 +225,21 @@ model {
 "
 
 # Compile the STAN model
-stan_model <- stan_model(model_code = stan_model_code, data = stan_data, 
+stan_model <- stan_model(model_code = stan_model_code)
+
+fit = sampling(stan_model, data = stan_data, 
                          iter = 2000, chains = 4)
 
 # Print results
-print(stan_model)
+print(fit)
 
 # Extract the results
-stan_results <- extract(stan_model)
+stan_results <- extract(fit)
 
 # Posterior distributions for alpha and a (species interaction terms)
 alpha_posterior <- stan_results$alpha
 a_posterior <- stan_results$a
 
 # Summary of the posterior
-summary(stan_model)
+summary(fit)
 ```

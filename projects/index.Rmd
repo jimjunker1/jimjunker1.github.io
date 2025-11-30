@@ -10,5 +10,13 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+here::i_am("projects/index.Rmd")
 ```
 
+## Size spectra of North American streams
+
+```{r size-spectra fig, fig.align='center', echo=FALSE}
+knitr::include_graphics(path = here::here("projects/figs/size-based food webs.png"), rel_path = FALSE)
+```
+
+Organism body size is a critical variable that is associated with numerous ecological attributes of organisms, including metabolic rate, movement, feeding interactions and trophic position, among others. As such, knowing information on the sizes of organisms can tell us a lot about ecosystem patterns and processes. For example, larger organisms use more energy, therefore fewer large individuals can be supported on a fixed energy source than smaller individuals on that same resource. Larger organisms, for the most part, eat smaller things then themselves.  
