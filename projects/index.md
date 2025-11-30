@@ -10,9 +10,16 @@ output:
 
 # Projects
 
-## Size spectra of North American streams
+## Ongoing projects
 
-<img src="C:/Users/jj0895/OneDrive - UNT System/Personal/Website/jimjunker1.github.io/projects/figs/size-based food webs.png" width="684" style="display: block; margin: auto;" />
+### Size spectra of North American streams
+
+# `{r size-spectra fig, fig.align='center', echo=FALSE} # knitr::include_graphics(path = here::here("projects/figs/size-based food webs.png"), rel_path = FALSE) #`
+
+<figure>
+<img src="figs/size-based%20food%20webs.png" alt="size-spectra" />
+<figcaption aria-hidden="true">size-spectra</figcaption>
+</figure>
 
 Organism body size is a critical variable that is associated with
 numerous ecological attributes of organisms, including metabolic rate,
@@ -58,6 +65,8 @@ predation alter metabolic scaling without changing size-based community
 structure in freshwater macroinvertebrates*.
 bioRxiv.[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract)
 
+### The movement and processing of materials in urban streams
+
 ------------------------------------------------------------------------
 
-## 
+## Past Projects
