@@ -8,14 +8,18 @@ output:
     variant: markdown_strict
 ---
 
-# Ongoing projects
+## Ongoing projects
 
-## Size spectra of North American streams
+### Size spectra of North American streams
 
 <figure>
 <img src="figs/size-based%20food%20webs.png"
 alt="Image of a size spectra showing the decline in abundance with body size. There are eight lines that from left to right change from red to blue. Under the lines there are organisms of different size with decreasing abundance with increasing size" />
-<figcaption aria-hidden="true"></figcaption>
+<figcaption aria-hidden="true">Image of a size spectra showing the
+decline in abundance with body size. There are eight lines that from
+left to right change from red to blue. Under the lines there are
+organisms of different size with decreasing abundance with increasing
+size</figcaption>
 </figure>
 
 Organism body size is a critical variable that is associated with
@@ -62,7 +66,43 @@ predation alter metabolic scaling without changing size-based community
 structure in freshwater macroinvertebrates*.
 bioRxiv.[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract)
 
-### The movement and processing of materials in urban streams
+### Urbanization effects on stream water quality
+
+Urbanization of stream environments is increasing
+
+### Population secondary production and toolsets for estimating secondary production
+
+Secondary production, the accrual of heterotrophic biomass over time, is
+a comprehensive measure of population that incorporates individual
+growth, mortality, and reproduction. Because it is rooted in
+bioenergetic theory and incorporates detailed information of the entire
+life-cycle of organisms, it is also a very useful measurement for
+understanding the role of organisms in energy and nutrient cycles. Past
+and ongoing research in the lab has focused on understanding the drivers
+of secondary production from individuals to communities including the
+nutritional and thermodynamic controls on production dynamics. We also
+develop tools and statistical frameworks to estimate production to be
+able to best use the wealth of information collected in production
+studies.
+
+Relevant papers and resources:
+
+***Junker, J. R.***. *secProd: a toolset for calculating secondary
+production of populations and
+communities*.https://jimjunker1.github.io/secpRod/
+
+***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M.
+Hood, D. Nelson, G. M. Gíslason, & J. S. Ólafsson. (2020). *Resource
+supply governs the apparent temperature dependence of animal production
+in stream ecosystems*. Ecology Letters 23(12):1809-1819.
+DOI:<!-- -->10.1111/ele.13608.
+[PDF](./pdfs/Junker%20et%20al.%20-%202020%20-%20Resource%20supply%20governs%20the%20apparent%20temperature%20d.pdf)
+
+***Junker, J. R.*** & W. F. Cross. (2014). *Seasonality in the trophic
+basis of a temperate stream invertebrate assemblage: Importance of
+temperature and food quality*. Limnology and Oceanography 59(2):507-518.
+DOI:<!-- -->10.4319/lo.2014.59.2.0507.
+[PDF](./pdfs/Junker%20and%20Cross%20-%202014%20-%20Seasonality%20in%20the%20trophic%20basis%20of%20a%20temperate%20st.pdf)
 
 ------------------------------------------------------------------------
 
