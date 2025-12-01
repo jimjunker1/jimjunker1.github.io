@@ -8,17 +8,14 @@ output:
     variant: markdown_strict
 ---
 
-# Projects
+# Ongoing projects
 
-## Ongoing projects
-
-### Size spectra of North American streams
-
-# `{r size-spectra fig, fig.align='center', echo=FALSE} # knitr::include_graphics(path = here::here("projects/figs/size-based food webs.png"), rel_path = FALSE) #`
+## Size spectra of North American streams
 
 <figure>
-<img src="figs/size-based%20food%20webs.png" alt="size-spectra" />
-<figcaption aria-hidden="true">size-spectra</figcaption>
+<img src="figs/size-based%20food%20webs.png" width="20%" float:"left"
+alt="Image of a size spectra showing the decline in abundance with body size. There are eight lines that from left to right change from red to blue. Under the lines there are organisms of different size with decreasing abundance with increasing size" />
+<figcaption aria-hidden="true"></figcaption>
 </figure>
 
 Organism body size is a critical variable that is associated with

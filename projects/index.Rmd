@@ -13,17 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 here::i_am("projects/index.Rmd")
 ```
 
-# Projects
+# Ongoing projects
 
-## Ongoing projects
+## Size spectra of North American streams
 
-### Size spectra of North American streams
-
-# ```{r size-spectra fig, fig.align='center', echo=FALSE}
-# knitr::include_graphics(path = here::here("projects/figs/size-based food webs.png"), rel_path = FALSE)
-# ```
-
-![size-spectra](figs/size-based food webs.png)
+![Image of a size spectra showing the decline in abundance with body size. There are eight lines that from left to right change from red to blue. Under the lines there are organisms of different size with decreasing abundance with increasing size](figs/size-based food webs.png)
 
 Organism body size is a critical variable that is associated with numerous ecological attributes of organisms, including metabolic rate, movement, feeding interactions and trophic position, among others. As such, knowing information on the sizes of organisms can tell us a lot about ecosystem patterns and processes. For example, larger organisms use more energy, therefore fewer large individuals can be supported on a fixed energy source than smaller individuals on that same resource. Larger organisms, for the most part, eat individuals smaller then themselves. This project seeks to understand the patterns and drivers of organisms size distributions in streams of North America. We leverage a size-based theory of food webs, size spectra, to understand how energy flows up food webs from small organisms to larger predator species. In this work, we use data from the [National Ecological Observatory Network (NEON)](https://www.neonscience.org/) to explore how environmental variables such as temperature and basal resource availability control the distribution of individual body sizes in an ecosystem.
 
