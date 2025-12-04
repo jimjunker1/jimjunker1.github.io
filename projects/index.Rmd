@@ -33,7 +33,7 @@ Gjoni, V., D. S. Glazier, J. Pomeranz, ***J. R. Junker***, A. Smith, J. Woelber,
 
 ### Urbanization effects on stream water quality
 
-Urbanization of stream environments is increasing 
+Urbanization of stream environments is rapidly increasing globally. These changes often lead to shifts in the hydrology and ecology of these systems including the loss of important ecosystem services like clean water, food production, and recreation. Research in the group is using concentration-discharge (C-Q) relationships along with patterns of ecosystem metabolism to understand how streams transport and transform nutrients and materials delivered from the watershed. The rapidly expanding Dallas-Fort Worth metropolitan area provides a unique opportunity to explore gradients of urbanization and associated stream ecosystem in the largest inland metropolitan area of the U.S.
 
 ### Population secondary production and toolsets for estimating secondary production
 
@@ -41,7 +41,7 @@ Secondary production, the accrual of heterotrophic biomass over time, is a compr
 
 Relevant papers and resources:
 
-***Junker, J. R.***. *secProd: a toolset for calculating secondary production of populations and communities*.https://jimjunker1.github.io/secpRod/
+***Junker, J. R.***. *secpRod: a toolset for calculating secondary production of populations and communities*. [codebase at github](https://jimjunker1.github.io/secpRod/)
 
 ***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M. Hood, D. Nelson, G. M. G&iacute;slason, & J. S. &Oacute;lafsson. (2020). *Resource supply governs the apparent temperature dependence of animal production in stream ecosystems*. Ecology Letters 23(12):1809-1819. DOI:<!-- -->10.1111/ele.13608. [PDF](./pdfs/Junker et al. - 2020 - Resource supply governs the apparent temperature d.pdf)
 

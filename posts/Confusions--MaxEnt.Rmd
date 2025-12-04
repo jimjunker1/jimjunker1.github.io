@@ -15,6 +15,75 @@ output:
     variant: markdown_strict 
 ---
 
+This is a post I have been thinking about for a long time and finally am getting around to writing up. The problem was inspired by data on deep sea bivalves and their ecological function of consuming large particulate organic matter, such as tree and logs, on the ocean floor. We wanted to understand how diversity of bivalves influenced the decomposition rate of logs--were biodiversity effects additive or interactive? Does the addition of a new species increase/decrease the decomposition of logs above and beyond the predicted effects of simply adding another individual?
+
+At first, this seemed like a great opportunity to employ [the Price equation](https://winfreelab.com/wp-content/uploads/2022/06/harrison2022_AmNat.pdf), a framework that I had been interested in applying to ecological questions of biodiversity--ecosystem function (I plan to do a more thorough post on the Price equation in the future for a different approach). However, this data set presented a number of issues, some of which were hurdles:
+
+1) we only had abundance of each species on each log,
+
+2) we only had the total mass loss of each log,
+
+3) we lacked other information on these species (e.g., body size, metabolic rates).
+
+As such, we didn't have a clear way to estimate the per-capita effect of any one species. Other aspects of the data represented opportunities to potentially overcome these hurdles, specifically, there were a few logs that only had a single species present. Others had two species in unique combinations. Others were much more diverse with upwards of 8-10 species. 
+
+I thought this was a fun opportunity to think about ways to use the information we had across all the sample logs, particularly the constraints on total mass loss and leveraging the single and dual species examples, to develop a framework for inferring per-capita functions for all species and estimates of species-species interactions. If we have information on the per-capita consumption of a couple species from logs with only a single species, can we use that to inform what their expected per-capita function is in other samples? With information on only one or two species, can we then estimate the expected function of all species across all communities given the constrains on total community function and good estimates for only a subset of the community? 
+
+For this exercise, I made a few assumptions:
+
+1) only bivalves contribute to mass loss. The contribution from other groups (i.e. bacteria, fungi) are negligible
+
+2) total resource consumption over the timespan of the experiment does not lead to resource depletion that alters the function of any bivalve species. This is an assumption that I will relax later.
+
+3) per-capita function in single species samples is not depressed by intraspecific density dependence.
+
+To test some approaches, first I want to simulate some data with known values. For the first simulation, I want to see if I can recover the metabolic rates in communities that are strictly additive, meaning while each species has a unique and fixed per-capita function, there are no interactions among species. Here, the total function of community $j$, $F_{j}$, is just the summed per-capita function, $f_{i}$, of individuals of a species, $N_{i}$, summed across all species, $S$, as:
+
+$$F_{j} = \sum_{i = 1}^{S} N_{ij} f_{i}$$
+
+For this simulation I am going to 1) make up some per-capita function values for ten species, 2) create random communities some of which have only a single species, 3) calculate the total function in each community, 4) using just species abundances and total function from all communities build a model to recapture the species-specific metabolic rates. To do this, I will leverage the [`mobsim` package](https://cran.r-project.org/web/packages/mobsim/vignettes/Simulating_communities.html#simulating-species-abundance-distributions) and the `sim_sad()` function.
+
+```{r comm simulation}
+library(mobsim)
+library(dplyr)
+library(tidyr)
+library(purrr)
+# set the seed for reproducibility
+set.seed(1312)
+
+# create some fake function rates 
+metDf = data.frame(
+  sp = letters[1:10],
+  fi = 10:1
+)
+
+# create some random total abundances
+abunVec = round(runif(10, 1e2,1e3))
+
+# set the first three communities as random single species
+commDf = data.frame(comm = c("c1","c2","c3"),
+                    sp = c(sample(letters[1:10],1),
+                           sample(letters[1:10],1),
+                           sample(letters[1:10],1)),
+                    abun = abunVec[1:3]
+                           )
+
+# simulate seven other mixed species communities and elongate to combine above
+abunList = map(abunVec[4:10],
+               ~sim_sad(s_pool = NULL,
+                        n_sim = NULL,
+                        sad_type = 'bs',
+                        sad_coef = list("N" = .x, "S" = 10))
+               ) %>% 
+  bind_rows(.id = "comm") %>% 
+  data.frame %>% 
+  dplyr::mutate(comm = stringr::str_c("c",as.numeric(comm)+3)) %>% 
+  pivot_longer(cols = -comm, names_to = "sp", values_to = "abun") %>% 
+  
+  
+
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
@@ -58,7 +127,7 @@ A <- matrix(c(
 ), nrow = 3, byrow = TRUE)
 # 
 # # Target values for the communities (e.g., total metabolic rates)
-b <- c(100, 100, 100)
+b <- c(100, 70, 80)
 # 
 # # Estimate the most likely metabolic rates for the two species
 estimated_metabolic_rates <- maxent(A, b)

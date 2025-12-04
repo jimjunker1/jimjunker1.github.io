@@ -1,0 +1,11 @@
+---
+layout: page
+title: 
+permalink: /people/
+output:
+  md_document:
+    preserve_yaml: TRUE
+    variant: markdown_strict
+---
+
+
