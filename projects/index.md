@@ -15,11 +15,7 @@ output:
 <figure>
 <img src="figs/size-based%20food%20webs.png"
 alt="Image of a size spectra showing the decline in abundance with body size. There are eight lines that from left to right change from red to blue. Under the lines there are organisms of different size with decreasing abundance with increasing size" />
-<figcaption aria-hidden="true">Image of a size spectra showing the
-decline in abundance with body size. There are eight lines that from
-left to right change from red to blue. Under the lines there are
-organisms of different size with decreasing abundance with increasing
-size</figcaption>
+<figcaption aria-hidden="true"></figcaption>
 </figure>
 
 Organism body size is a critical variable that is associated with
@@ -68,12 +64,21 @@ bioRxiv.[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstrac
 
 ### Urbanization effects on stream water quality
 
-Urbanization of stream environments is increasing
+Urbanization of stream environments is rapidly increasing globally.
+These changes often lead to shifts in the hydrology and ecology of these
+systems including the loss of important ecosystem services like clean
+water, food production, and recreation. Research in the group is using
+concentration-discharge (C-Q) relationships along with patterns of
+ecosystem metabolism to understand how streams transport and transform
+nutrients and materials delivered from the watershed. The rapidly
+expanding Dallas-Fort Worth metropolitan area provides a unique
+opportunity to explore gradients of urbanization and associated stream
+ecosystem in the largest inland metropolitan area of the U.S.
 
 ### Population secondary production and toolsets for estimating secondary production
 
 Secondary production, the accrual of heterotrophic biomass over time, is
-a comprehensive measure of population that incorporates individual
+a comprehensive measure of a population that incorporates individual
 growth, mortality, and reproduction. Because it is rooted in
 bioenergetic theory and incorporates detailed information of the entire
 life-cycle of organisms, it is also a very useful measurement for
@@ -87,9 +92,9 @@ studies.
 
 Relevant papers and resources:
 
-***Junker, J. R.***. *secProd: a toolset for calculating secondary
-production of populations and
-communities*.https://jimjunker1.github.io/secpRod/
+***Junker, J. R.***. *secpRod: a toolset for calculating secondary
+production of populations and communities*. [codebase at
+github](https://jimjunker1.github.io/secpRod/)
 
 ***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M.
 Hood, D. Nelson, G. M. Gíslason, & J. S. Ólafsson. (2020). *Resource

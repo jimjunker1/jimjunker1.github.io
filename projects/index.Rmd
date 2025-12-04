@@ -37,7 +37,7 @@ Urbanization of stream environments is rapidly increasing globally. These change
 
 ### Population secondary production and toolsets for estimating secondary production
 
-Secondary production, the accrual of heterotrophic biomass over time, is a comprehensive measure of population that incorporates individual growth, mortality, and reproduction. Because it is rooted in bioenergetic theory and incorporates detailed information of the entire life-cycle of organisms, it is also a very useful measurement for understanding the role of organisms in energy and nutrient cycles. Past and ongoing research in the lab has focused on understanding the drivers of secondary production from individuals to communities including the nutritional and thermodynamic controls on production dynamics. We also develop tools and statistical frameworks to estimate production to be able to best use the wealth of information collected in production studies.
+Secondary production, the accrual of heterotrophic biomass over time, is a comprehensive measure of a population that incorporates individual growth, mortality, and reproduction. Because it is rooted in bioenergetic theory and incorporates detailed information of the entire life-cycle of organisms, it is also a very useful measurement for understanding the role of organisms in energy and nutrient cycles. Past and ongoing research in the lab has focused on understanding the drivers of secondary production from individuals to communities including the nutritional and thermodynamic controls on production dynamics. We also develop tools and statistical frameworks to estimate production to be able to best use the wealth of information collected in production studies.
 
 Relevant papers and resources:
 
