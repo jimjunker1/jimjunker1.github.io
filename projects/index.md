@@ -8,6 +8,63 @@ output:
     variant: markdown_strict
 ---
 
+**I am currently seeking a PhD student for an NSF-funded research
+project on stream ecosystem ecology. See details below**
+
+<details>
+
+Project: A doctoral position is available for an independent and
+motivated student with a background in ecology, environmental science,
+fisheries, or related fields. The student will participate in a
+collaborative, multi-institution NSF-funded research project to
+understand the patterns and drivers of organism size-structure in
+macroinvertebrate and fish food webs of stream ecosystems. The project
+aims to determine how individual metabolic scaling and trophic structure
+relate to the distribution of body sizes and energy flow in stream food
+webs. The student will have the opportunity to work in a variety of
+streams across North America within the National Ecological Observatory
+Network (NEON) and gain experience in the application of stable
+isotopes, respirometry, and Bayesian inferential frameworks.
+
+The position will be available starting in summer of 2026, but there is
+flexibility in the start date for fall 2026 for qualified applicants.
+
+The project leader, Dr. Jim Junker, works within a diverse and
+collaborative research group at the University of North Texas exploring
+aquatic ecosystems from biogeochemistry to food web ecology across a
+wide variety of scales. The lab group values diversity and seeks to
+build an inclusive lab environment.
+
+Compensation: Funds are available to support research activities and
+doctoral student salary and tuition. It is expected that support will
+come from a combination of research and teaching assistantships and that
+students will apply for appropriate fellowships and scholarships.
+Doctoral students on UNT assistantships are provided health insurance
+through the university’s health insurance plan.
+
+Eligibility: Candidates with a Master’s degree in a relevant field are
+preferred; however, consideration will be given to exceptional
+candidates with a Bachelor’s degree in a relevant field. Competitive
+candidates will have experience working in field settings; strong
+statistical and modelling skills, including experience in the R
+computing environment; and excellent interpersonal and writing skills.
+The position requires eligibility to operate a motor vehicle in the U.S.
+
+The student will be enrolled in the PhD program in the Department of
+Biological Sciences at the University of North Texas in Denton, TX.
+
+Application process: Application review will begin on February 10, 2026
+and the position will remain open until filled.
+
+To apply, please send application materials to Dr. Jim Junker
+(<james.junker@unt.edu>) with the subject, “PhD application: aquatic
+ecosystem ecology”. Packets should include a single PDF with 1) cover
+letter describing your interest in the project, relevant experience, and
+career goals, 2) your CV, 3) the names and contact details of three (3)
+references, and 4) unofficial transcripts.
+
+</details>
+
 ## Ongoing projects
 
 ### Size spectra of North American streams
@@ -15,7 +72,11 @@ output:
 <figure>
 <img src="figs/size-based%20food%20webs.png"
 alt="Image of a size spectra showing the decline in abundance with body size. There are eight lines that from left to right change from red to blue. Under the lines there are organisms of different size with decreasing abundance with increasing size" />
-<figcaption aria-hidden="true"></figcaption>
+<figcaption aria-hidden="true">Image of a size spectra showing the
+decline in abundance with body size. There are eight lines that from
+left to right change from red to blue. Under the lines there are
+organisms of different size with decreasing abundance with increasing
+size</figcaption>
 </figure>
 
 Organism body size is a critical variable that is associated with
@@ -78,7 +139,7 @@ ecosystem in the largest inland metropolitan area of the U.S.
 ### Population secondary production and toolsets for estimating secondary production
 
 Secondary production, the accrual of heterotrophic biomass over time, is
-a comprehensive measure of a population that incorporates individual
+a comprehensive measure of population that incorporates individual
 growth, mortality, and reproduction. Because it is rooted in
 bioenergetic theory and incorporates detailed information of the entire
 life-cycle of organisms, it is also a very useful measurement for
@@ -92,9 +153,9 @@ studies.
 
 Relevant papers and resources:
 
-***Junker, J. R.***. *secpRod: a toolset for calculating secondary
-production of populations and communities*. [codebase at
-github](https://jimjunker1.github.io/secpRod/)
+***Junker, J. R.***. *secProd: a toolset for calculating secondary
+production of populations and
+communities*.https://jimjunker1.github.io/secpRod/
 
 ***Junker, J. R.***, W. F. Cross, J. P. Benstead, A. D. Huryn, J. M.
 Hood, D. Nelson, G. M. Gíslason, & J. S. Ólafsson. (2020). *Resource

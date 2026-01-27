@@ -9,8 +9,6 @@ output:
     variant: markdown_strict
 ---
 
-# Biography
-
 I am an ecologist with broad interests in the dynamics of communities
 and ecosystems. My feet are usually wet. I am interested in how energy
 and elements move through ecological networks and the processes that
@@ -30,10 +28,11 @@ questions or are interest in working together.
 
 ## Current positions
 
-**There are currently no specific positions open in the lab. I am open
-to develop projects with potential graduate or postdoctoral researchers,
-if research interests align. Please send me an email to discuss possible
-opportunities.**
+**I am currently recruiting for a doctoral student to join the lab group
+on a NSF-funded research project studying the mechanisms that determine
+the distribution of body sizes in stream ecosystems. More details on the
+position and to apply see the [Projects
+page](https://www.jimjunker.com/projects/).**
 
 ## Education
 

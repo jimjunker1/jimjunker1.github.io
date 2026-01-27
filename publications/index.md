@@ -73,7 +73,7 @@ Ecology 106:e70050. DOI:<!--- --->10.1002/ecy.70050.
 Bradley, L. M., E. S. Duvall, O. J. Akinnifesi, T. Novotná Jaroměřská,
 ***J. R. Junker***, and E. Wong. 2025. *Exploring the multi-scale
 ecological consequences of stoichiometric imbalance using an agent-based
-modeling approach*. Frontiers in Ecology and Evolution 13 1505145.
+modeling approach*. Frontiers in Ecology and Evolution. 13:1505145.
 DOI:<!--- --->10.3389/fevo.2025.1505145.
 [PDF](./pdfs/Bradley%20et%20al.%20-%202025%20-%20Exploring%20the%20multi-scale%20ecological%20consequences%20of%20stoichiometric%20imbalance%20using%20an%20agent-based%20m.pdf).
 [LINK](https://www.frontiersin.org/journals/ecology-and-evolution/articles/10.3389/fevo.2025.1505145/full).
@@ -226,4 +226,5 @@ O’Gorman, E. J.,…,***J. R. Junker***,…, & G. Woodward (30 authors).
 communities: individual- to ecosystem-level responses*. Advances in
 ecological research 47:81-176.
 DOI:<!-- -->10.1016/B978-0-12-398315-2.00002-8.
+[PDF](./pdfs/O'Gorman%20et%20al.%20-%202012%20-%20Impacts%20of%20Warming%20on%20the%20Structure%20and%20Functionin.pdf).
 [LINK](https://www.zora.uzh.ch/id/eprint/88276/1/O%27Gorman2012Zora.pdf)
