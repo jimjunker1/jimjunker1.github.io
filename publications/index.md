@@ -27,14 +27,14 @@ temperature and resource supply*. bioRxiv.
 Gjoni, V., D. S. Glazier, J. Pomeranz, ***J. R. Junker***, A. Smith, J.
 Woelber, S. Reynolds, T. Welch, and J. S. Wesner. 2025. *Temperature and
 predation alter metabolic scaling without changing size-based community
-structure in freshwater macroinvertebrates*.
-bioRxiv.[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract)
+structure in freshwater macroinvertebrates*. bioRxiv.
+[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract)
 
 Mello, J. L. da S., L. J. Venuso, J. M. Braga, P. B. Guerra, E. M.
 Shimabukuro, T. Siqueira, ***J. R. Junker***, and V. S. Saito.
 *Ontogenetic Carnivory Drives Secondary Production Across a Productivity
-Gradient*.
-ecoevoRxiv[LINK](https://ecoevorxiv.org/repository/view/9640/)
+Gradient*. ecoevoRxiv.
+[LINK](https://ecoevorxiv.org/repository/view/9640/)
 
 ## accepted/in press
 
