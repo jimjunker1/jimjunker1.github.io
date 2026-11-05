@@ -1,5 +1,3 @@
-Publications
-================
 
 This list is updated occasionally, however, it may be missing the most hot-off-the-press items. I also maintain [scholar](https://scholar.google.com/citations?user=q3E1S9MAAAAJ&hl=en) and [OrcID](https://orcid.org/0000-0001-9713-2330) pages, check these for the most updated list.
 

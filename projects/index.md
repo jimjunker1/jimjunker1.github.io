@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /projects/
+output: 
+  md_document:
+    preserve_yaml: true
+    variant: markdown_strict
+---
+
 ## Ongoing projects
 
 ### Size spectra of North American streams
@@ -5,12 +14,11 @@
 <figure>
 <img src="figs/size-based%20food%20webs.png"
 alt="Image of a size spectra showing the decline in abundance with body size. There are eight lines that from left to right change from red to blue. Under the lines there are organisms of different size with decreasing abundance with increasing size" />
-<figcaption aria-hidden="true">
-Image of a size spectra showing the decline in abundance with body size.
-There are eight lines that from left to right change from red to blue.
-Under the lines there are organisms of different size with decreasing
-abundance with increasing size
-</figcaption>
+<figcaption aria-hidden="true">Image of a size spectra showing the
+decline in abundance with body size. There are eight lines that from
+left to right change from red to blue. Under the lines there are
+organisms of different size with decreasing abundance with increasing
+size</figcaption>
 </figure>
 
 Organism body size is a critical variable that is associated with

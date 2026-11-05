@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Publications"
 output:
   github_document:
     hard_line_breaks: false
