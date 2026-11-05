@@ -1,7 +1,11 @@
 ---
 layout: page
 title: "Publications"
-output: github_document
+output:
+  github_document:
+    hard_line_breaks: false
+    pandoc_args:
+      - "--wrap=none"
 permalink: /publications/
 # bibliography: pubs.bib
 # csl: ecology-by-date.csl
