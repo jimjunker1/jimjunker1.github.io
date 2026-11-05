@@ -41,7 +41,7 @@ G.W., Hiley, A.S., ***J. R. Junker***, P. J. Manlick, C. Nunnally, C.
 Romano, G. W. Rouse, J. P. Whiteman, and S. D. Newsome. 2026. *Abundance
 and Functional Roles, Not Richness, Govern Wood-Fall Degenerative
 Ecosystem Function in the Deep Sea*. The American Naturalist
-208(3):261–277.DOI:<!--- --->10.1086/741526.
+208(3):261–277. DOI:<!--- --->10.1086/741526.
 [PDF](./publications/pdfs/McClain%20et%20al.%20-%202026%20-%20Abundance%20and%20Functional%20Roles,%20Not%20Richness,%20Govern%20Wood-Fall%20Degenerative%20Ecosystem%20Function%20in%20th.pdf).
 [LINK](https://www.journals.uchicago.edu/doi/full/10.1086/741526).
 
@@ -57,7 +57,7 @@ Smith, J. Woelber, S. Reynolds, T. Welch, and J. S. Wesner. 2026.
 *Temperature and predation alter metabolic scaling without changing
 size-based community structure in freshwater macroinvertebrates*.
 Philosophical Transactions of the Royal Society B: Biological Sciences
-381(1946):20250072.DOI:<!--- --->10.1098/rstb.2025.0072.
+381(1946):20250072. DOI:<!--- --->10.1098/rstb.2025.0072.
 [PDF](./publications/pdfs/Gjoni%20et%20al.%20-%202026%20-%20Temperature%20and%20predation%20alter%20metabolic%20scaling%20without%20changing%20size-based%20community%20structur.pdf).
 [LINK](https://doi.org/10.1098/rstb.2025.0072).
 
