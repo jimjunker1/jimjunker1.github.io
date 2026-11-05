@@ -1,0 +1,7 @@
+To update the static website for production:
+
+1) make changes to underlying .rmd files
+
+2) in terminal type: jekyll build
+
+3) push changes 
