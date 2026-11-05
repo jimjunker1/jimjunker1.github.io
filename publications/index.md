@@ -19,17 +19,6 @@ for the most updated list.
 
 ## preprints
 
-Gjoni, V., J. P. F. Pomeranz, ***J. R. Junker***, and J. S. Wesner.
-(2024). *Size spectra in freshwater streams are consistent across
-temperature and resource supply*. bioRxiv.
-[LINK](https://doi.org/10.1101/2024.01.09.574822).
-
-Gjoni, V., D. S. Glazier, J. Pomeranz, ***J. R. Junker***, A. Smith, J.
-Woelber, S. Reynolds, T. Welch, and J. S. Wesner. 2025. *Temperature and
-predation alter metabolic scaling without changing size-based community
-structure in freshwater macroinvertebrates*. bioRxiv.
-[LINK](https://www.biorxiv.org/content/10.1101/2025.06.27.661898.abstract)
-
 Mello, J. L. da S., L. J. Venuso, J. M. Braga, P. B. Guerra, E. M.
 Shimabukuro, T. Siqueira, ***J. R. Junker***, and V. S. Saito.
 *Ontogenetic Carnivory Drives Secondary Production Across a Productivity
@@ -38,6 +27,40 @@ Gradient*. ecoevoRxiv.
 
 ## accepted/in press
 
+## 2026
+
+Roose, H.C., ***J. R. Junker***, and J. A. Olin. 2026. *Interspecific
+Interactions Constrain Individual Niche Divergence and Reveal Energetic
+Cost of Niche Expansion*. Ecology and Evolution 16(11):e74619.
+DOI:<!--- --->10.1002/ece3.74619.
+[PDF](./publications/pdfs/Roose%20et%20al.%20-%202026%20-%20Interspecific%20Interactions%20Constrain%20Individuald%20Niche%20Divergence%20and%20Reveal%20Energetic%20Cost%20of%20Niche.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.74619)
+
+McClain, C.R., M. Genung, C.M. Boolukos, C.M., Bryant, S.R.D., Hanks,
+G.W., Hiley, A.S., ***J. R. Junker***, P. J. Manlick, C. Nunnally, C.
+Romano, G. W. Rouse, J. P. Whiteman, and S. D. Newsome. 2026. *Abundance
+and Functional Roles, Not Richness, Govern Wood-Fall Degenerative
+Ecosystem Function in the Deep Sea*. The American Naturalist
+208(3):261–277.DOI:<!--- --->10.1086/741526.
+[PDF](./publications/pdfs/McClain%20et%20al.%20-%202026%20-%20Abundance%20and%20Functional%20Roles,%20Not%20Richness,%20Govern%20Wood-Fall%20Degenerative%20Ecosystem%20Function%20in%20th.pdf).
+[LINK](https://www.journals.uchicago.edu/doi/full/10.1086/741526).
+
+Gjoni, V., J. P. F. Pomeranz, ***J. R. Junker***, and J. S. Wesner.
+2026. *Temperature and Resource Supply Drive Continental Variation in
+Size Structure of Freshwater Food Webs*. Ecology Letters 29(6):e70437.
+DOI:<!--- --->10.1111/ele.70437.
+[PDF](./publications/pdfs/Gjoni%20et%20al.%20-%202026%20-%20Temperature%20and%20Resource%20Supply%20Drive%20Continental%20Variation%20in%20Size%20Structure%20of%20Freshwater%20Food%20Web.pdf).
+[LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.70437)
+
+Gjoni, V., D. S. Glazier, J. P. F. Pomeranz, ***J. R. Junker***, A.
+Smith, J. Woelber, S. Reynolds, T. Welch, and J. S. Wesner. 2026.
+*Temperature and predation alter metabolic scaling without changing
+size-based community structure in freshwater macroinvertebrates*.
+Philosophical Transactions of the Royal Society B: Biological Sciences
+381(1946):20250072.DOI:<!--- --->10.1098/rstb.2025.0072.
+[PDF](./publications/pdfs/Gjoni%20et%20al.%20-%202026%20-%20Temperature%20and%20predation%20alter%20metabolic%20scaling%20without%20changing%20size-based%20community%20structur.pdf).
+[LINK](https://doi.org/10.1098/rstb.2025.0072).
+
 ## 2025
 
 Stutter, M., L. Jackson-Blake, M. McGovern, J. D’Andrilli, ***J. R.
@@ -45,7 +68,7 @@ Junker***, P. Dörsch, H. Watson, S. R. Karlsen, and B. O. L. Demars.
 2025. *Riparian Soils Inform Dissolved Organic Matter Delivery in a
 Norwegian Subarctic River*. European Journal of Soil Science 76:e70185.
 DOI:<!--- --->10.1111/ejss.70185.
-[PDF](./pdfs/Stutter%20et%20al.%20-%202025%20-%20Riparian%20Soils%20Inform%20Dissolved%20Organic%20Matter%20Delivery%20in%20a%20Norwegian%20Subarctic%20River.pdf).
+[PDF](./publications/pdfs/Stutter%20et%20al.%20-%202025%20-%20Riparian%20Soils%20Inform%20Dissolved%20Organic%20Matter%20Delivery%20in%20a%20Norwegian%20Subarctic%20River.pdf).
 [LINK](https://onlinelibrary.wiley.com/doi/abs/10.1111/ejss.70185).
 
 Landreth, J. H., B. A. Murry, K. A. Adase, C. C. Arantes, D. M. Smith,
