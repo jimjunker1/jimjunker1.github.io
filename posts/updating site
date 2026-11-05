@@ -4,7 +4,15 @@ To update the static website for production:
 
 2) in terminal type: bundle exec jekyll serve
 
-3) open 
+3) open https://localhost:4000 to look at site 
 
-3) push changes 
+4) in terminal type: bundle exec jekyll build
+
+5) commit and push changes
+
+6) confirm site updates
+
+  6a) if site doesn't update within a few minutes check:
+    - github actions completed successfully
+    - Netlify (www.netlify.com) that deploy was successful
 
